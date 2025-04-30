@@ -1,0 +1,70 @@
+# FastAPI and Uvicorn
+fastapi>=0.115.0
+uvicorn[standard]>=0.20.0,<0.25.0
+pydantic>=2.0,<3.0
+python-multipart>=0.0.6
+starlette>=0.27.0
+
+# LLM and tools
+crewai>=0.114.0
+langchain>=0.1.6
+langchain-openai>=0.0.5
+langchain-anthropic>=0.1.1
+langchain-community>=0.0.16
+duckduckgo-search>=5.0.0
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+openai>=1.13.0
+anthropic>=0.15.0
+aiohttp>=3.9.1
+google-generativeai>=0.3.0
+
+# File handling and processing
+pillow>=10.0.0
+aiofiles>=23.2.1
+jinja2>=3.1.2
+pydantic-settings>=2.0.3
+python-jose[cryptography]>=3.3.0
+passlib[bcrypt]>=1.7.4
+
+# Testing dependencies
+pytest>=7.0.0,<8.0.0
+pytest-asyncio>=0.20.0,<0.22.0
+httpx>=0.27.0
+
+# Data processing
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+pytz>=2023.3
+
+# RAG and text processing
+nltk>=3.8.1
+scikit-learn>=1.3.0
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.0
+transformers>=4.30.0
+huggingface-hub>=0.16.4
+torch>=2.0.0
+tokenizers>=0.14.0
+
+# API and networking
+websockets>=11.0.3
+pyjwt>=2.8.0
+email-validator>=2.0.0
+ujson>=5.7.0
+orjson>=3.9.7
+
+# Utilities
+tqdm>=4.65.0
+colorama>=0.4.6
+tiktoken>=0.5.1
+tenacity>=8.2.2
+psutil>=5.9.5
+cachetools>=5.3.1
+
+# Optional but recommended
+# pytrends>=4.8.0
+# newsapi-python>=0.2.7
+# vaderSentiment>=3.3.2
