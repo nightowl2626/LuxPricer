@@ -33,7 +33,7 @@ The backend directory already contains a `.env` file with configuration settings
    cd backend
    ```
 
-2. Edit the `.env` file to replace the existing API keys with your own:
+2. Create a `.env` file to replace the existing API keys with your own:
    ```bash
    # Example .env file content
    OPENAI_API_KEY=your_openai_api_key_here
