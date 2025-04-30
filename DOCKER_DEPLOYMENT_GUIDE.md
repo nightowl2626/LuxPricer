@@ -19,11 +19,6 @@ The project consists of two main components:
 
 ### Clone the Repository
 
-```bash
-git clone <repository-url>
-cd luxury-item-appraisal
-```
-
 ### Configuration
 
 The backend directory already contains a `.env` file with configuration settings. You should replace the API keys with your own:
