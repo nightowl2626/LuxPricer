@@ -1,4 +1,4 @@
-# Docker Deployment Guide - Luxury Item Appraisal System
+# Docker Deployment Guide
 
 This guide provides step-by-step instructions for deploying the Luxury Item Appraisal System using Docker containers. Following these instructions will help you set up both frontend and backend components of the application.
 
