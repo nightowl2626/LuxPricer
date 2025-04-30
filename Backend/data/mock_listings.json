@@ -1,0 +1,100 @@
+[
+  {
+    "listing_id": "gc_hb_001",
+    "source_platform": "Fashionphile",
+    "item_details": {
+      "designer": "Gucci",
+      "model": "Horsebit 1955",
+      "size": "Medium",
+      "material": "Leather",
+      "color": "Brown"
+    },
+    "listing_price": 2800.0,
+    "condition_rating": 4,
+    "condition_category": "Excellent"
+  },
+  {
+    "listing_id": "gc_hb_002",
+    "source_platform": "Vestiaire Collective",
+    "item_details": {
+      "designer": "Gucci",
+      "model": "Horsebit 1955",
+      "size": "Medium",
+      "material": "Leather",
+      "color": "Brown"
+    },
+    "listing_price": 2650.0,
+    "condition_rating": 3,
+    "condition_category": "Very Good"
+  },
+  {
+    "listing_id": "gc_hb_003",
+    "source_platform": "Fashionphile",
+    "item_details": {
+      "designer": "Gucci",
+      "model": "Horsebit 1955",
+      "size": "Medium",
+      "material": "Canvas",
+      "color": "Beige/Ebony"
+    },
+    "listing_price": 2950.0,
+    "condition_rating": 5,
+    "condition_category": "New"
+  },
+  {
+    "listing_id": "gc_hb_004",
+    "source_platform": "The RealReal",
+    "item_details": {
+      "designer": "Gucci",
+      "model": "Horsebit 1955",
+      "size": "Medium",
+      "material": "Leather",
+      "color": "Brown"
+    },
+    "listing_price": 2700.0,
+    "condition_rating": 4,
+    "condition_category": "Excellent"
+  },
+  {
+    "listing_id": "ch_cf_001",
+    "source_platform": "Fashionphile",
+    "item_details": {
+      "designer": "Chanel",
+      "model": "Classic Flap",
+      "size": "Medium",
+      "material": "Lambskin",
+      "color": "Black"
+    },
+    "listing_price": 9000.0,
+    "condition_rating": 4,
+    "condition_category": "Excellent"
+  },
+  {
+    "listing_id": "ch_cf_002",
+    "source_platform": "Vestiaire Collective",
+    "item_details": {
+      "designer": "Chanel",
+      "model": "Classic Flap",
+      "size": "Medium",
+      "material": "Lambskin",
+      "color": "Black"
+    },
+    "listing_price": 8500.0,
+    "condition_rating": 3,
+    "condition_category": "Very Good"
+  },
+  {
+    "listing_id": "ch_cf_003",
+    "source_platform": "The RealReal",
+    "item_details": {
+      "designer": "Chanel",
+      "model": "Classic Flap",
+      "size": "Medium",
+      "material": "Caviar",
+      "color": "Black"
+    },
+    "listing_price": 9200.0,
+    "condition_rating": 4,
+    "condition_category": "Excellent"
+  }
+]

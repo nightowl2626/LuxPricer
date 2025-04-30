@@ -1,0 +1,86 @@
+{
+  "target_item": "Louis Vuitton Neverfull MM Damier Ebene",
+  "timeframe": "last 6 months",
+  "recent_runway_mentions": [
+    "The iconic Neverfull received a luxe makeover in vibrant red crocodile leather with gold-tone hardware during the Louis Vuitton Spring-Summer 2025 runway show at Paris Fashion Week.",
+    "Louis Vuitton's Fall/Winter 2025/26 fashion show featured a variety of Louis Vuitton bags, but no direct mention of the classic Damier Ebene Neverfull MM in the show summaries."
+  ],
+  "recent_celebrity_sightings": [],
+  "recent_review_keywords_positive": [
+    "timeless",
+    "versatile",
+    "everyday companion",
+    "iconic style"
+  ],
+  "recent_review_keywords_negative": [
+    "lack of innovation",
+    "desire for exclusive editions"
+  ],
+  "collectibility_notes": [
+    "The Neverfull is described as a timeless tote with enduring appeal, and its recent iterations in exotic leathers suggest Louis Vuitton's ongoing investment in the style.",
+    "Recent buzz around new reversible and exotic versions may enhance the bag's collectibility and future desirability."
+  ],
+  "overall_trend_summary": "The Louis Vuitton Neverfull MM remains a staple, with the brand introducing new luxe versions on recent runways, signaling ongoing relevance. No major celebrity sightings or viral moments in the past six months, but positive sentiment around its versatility and iconic status persists. Reviews express a desire for more exclusive variants, likely fueling collectible interest in limited editions or new materials.",
+  "key_sources": [
+    "https://www.pursebop.com/louis-vuitton-introduces-hot-new-bags-for-spring-summer-2025/",
+    "https://www.youtube.com/watch?v=V0sZvlw8IS0",
+    "https://us.louisvuitton.com/eng-us/women/handbags/all-handbags/neverfull/_/N-tfr7qdp-ak1hsf6m9"
+  ],
+  "trend_score": 0.584,
+  "trend_category": "Medium",
+  "raw_score": 0.84,
+  "calculation_inputs": {
+    "num_runway": 2,
+    "num_celebs": 0,
+    "num_pos_keywords": 4,
+    "num_neg_keywords": 2,
+    "num_collect_notes": 2,
+    "has_investment_mention": 1,
+    "has_rarity_mention": 0
+  },
+  "trend_factors": [
+    {
+      "name": "Runway Presence",
+      "score": 0.2,
+      "count": 2,
+      "weight": 0.1
+    },
+    {
+      "name": "Celebrity Endorsement",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.2
+    },
+    {
+      "name": "Positive Reviews",
+      "score": 0.2,
+      "count": 4,
+      "weight": 0.05
+    },
+    {
+      "name": "Negative Reviews",
+      "score": -0.06,
+      "count": 2,
+      "weight": -0.03
+    },
+    {
+      "name": "Collectibility Notes",
+      "score": 0.3,
+      "count": 2,
+      "weight": 0.15
+    },
+    {
+      "name": "Investment Value",
+      "score": 0.2,
+      "count": 1,
+      "weight": 0.2
+    },
+    {
+      "name": "Rarity Mentions",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.15
+    }
+  ],
+  "cache_timestamp": 1745557904.8947892
+}

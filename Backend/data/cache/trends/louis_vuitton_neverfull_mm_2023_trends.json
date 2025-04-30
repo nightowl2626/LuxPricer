@@ -1,0 +1,72 @@
+{
+  "target_item": "Louis Vuitton Neverfull MM 2023 trends",
+  "timeframe": "last 6 months",
+  "recent_runway_mentions": [
+    "Sophie Turner was associated with Louis Vuitton Neverfull GM in a 2024 TikTok video from Louis Vuitton's official account"
+  ],
+  "recent_celebrity_sightings": [
+    "Sophie Turner (Louis Vuitton Fashion Show)"
+  ],
+  "recent_review_keywords_positive": [],
+  "recent_review_keywords_negative": [],
+  "collectibility_notes": [],
+  "overall_trend_summary": "Limited information is available specifically about the Louis Vuitton Neverfull MM 2023 trends from the last 6 months. The only relevant mention is Sophie Turner's association with the Louis Vuitton Neverfull GM (not specifically the MM) in a 2024 TikTok video from Louis Vuitton's official account, likely in connection with a fashion show appearance.",
+  "key_sources": [],
+  "trend_score": 0.45,
+  "trend_category": "Medium",
+  "raw_score": 0.3,
+  "calculation_inputs": {
+    "num_runway": 1,
+    "num_celebs": 1,
+    "num_pos_keywords": 0,
+    "num_neg_keywords": 0,
+    "num_collect_notes": 0,
+    "has_investment_mention": 0,
+    "has_rarity_mention": 0
+  },
+  "trend_factors": [
+    {
+      "name": "Runway Presence",
+      "score": 0.1,
+      "count": 1,
+      "weight": 0.1
+    },
+    {
+      "name": "Celebrity Endorsement",
+      "score": 0.2,
+      "count": 1,
+      "weight": 0.2
+    },
+    {
+      "name": "Positive Reviews",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.05
+    },
+    {
+      "name": "Negative Reviews",
+      "score": -0.0,
+      "count": 0,
+      "weight": -0.03
+    },
+    {
+      "name": "Collectibility Notes",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.15
+    },
+    {
+      "name": "Investment Value",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.2
+    },
+    {
+      "name": "Rarity Mentions",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.15
+    }
+  ],
+  "cache_timestamp": 1745885610.895602
+}

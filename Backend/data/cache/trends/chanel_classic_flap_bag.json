@@ -1,0 +1,90 @@
+{
+  "target_item": "Chanel Classic Flap Bag",
+  "timeframe": "last 6 months",
+  "recent_runway_mentions": [
+    "Appeared in the CHANEL Fall-Winter 2025/26 Ready-to-Wear Show at the Grand Palais in Paris",
+    "Single flaps with adjustable chain strap were brought back in the Spring-Summer 2025 collection"
+  ],
+  "recent_celebrity_sightings": [
+    "Naomi Campbell (Fall-Winter 2025/26 Ready-to-Wear Show)",
+    "Dakota Fanning (Fall-Winter 2025/26 Ready-to-Wear Show)",
+    "Wang Yibo (Fall-Winter 2025/26 Ready-to-Wear Show)",
+    "Caroline de Maigret (Fall-Winter 2025/26 Ready-to-Wear Show)"
+  ],
+  "recent_review_keywords_positive": [
+    "stunning",
+    "beautiful",
+    "classic"
+  ],
+  "recent_review_keywords_negative": [
+    "heavy",
+    "not as structured as it looks online"
+  ],
+  "collectibility_notes": [
+    "Single flap versions with adjustable chain straps have been brought back",
+    "New seasonal colors including navy blue and light gray are available"
+  ],
+  "overall_trend_summary": "The Chanel Classic Flap Bag remains prominent in Chanel's 2025 collections with the reintroduction of single flap versions and new seasonal colors. While maintaining its classic appeal, some variations receive mixed reviews regarding structure and weight. The bag continues to appear at high-profile fashion events with numerous celebrities present at recent showcases.",
+  "key_sources": [
+    "https://www.chanel.com/us/fashion/collection/fall-winter-2025-26/",
+    "https://www.chanel.com/us/fashion/collection/spring-summer-2025/",
+    "https://www.youtube.com/watch?v=1Bp2SZnif10"
+  ],
+  "trend_score": 0.709,
+  "trend_category": "High",
+  "raw_score": 1.39,
+  "calculation_inputs": {
+    "num_runway": 2,
+    "num_celebs": 4,
+    "num_pos_keywords": 3,
+    "num_neg_keywords": 2,
+    "num_collect_notes": 2,
+    "has_investment_mention": 0,
+    "has_rarity_mention": 0
+  },
+  "trend_factors": [
+    {
+      "name": "Runway Presence",
+      "score": 0.2,
+      "count": 2,
+      "weight": 0.1
+    },
+    {
+      "name": "Celebrity Endorsement",
+      "score": 0.8,
+      "count": 4,
+      "weight": 0.2
+    },
+    {
+      "name": "Positive Reviews",
+      "score": 0.15000000000000002,
+      "count": 3,
+      "weight": 0.05
+    },
+    {
+      "name": "Negative Reviews",
+      "score": -0.06,
+      "count": 2,
+      "weight": -0.03
+    },
+    {
+      "name": "Collectibility Notes",
+      "score": 0.3,
+      "count": 2,
+      "weight": 0.15
+    },
+    {
+      "name": "Investment Value",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.2
+    },
+    {
+      "name": "Rarity Mentions",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.15
+    }
+  ],
+  "cache_timestamp": 1745884848.4626188
+}

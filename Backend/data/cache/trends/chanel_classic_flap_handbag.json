@@ -1,0 +1,84 @@
+{
+  "target_item": "Chanel Classic Flap handbag",
+  "timeframe": "last 6 months",
+  "recent_runway_mentions": [
+    "The Classic Flap was included in Chanel's Pre-Collection Fall 2023, offered in seasonal materials like sherpa and bold hues, alongside other classic styles, as part of a consumer-friendly and sought-after lineup.",
+    "Metallic Chanel bags, including the Classic Flap, are noted as on trend for Fall/Winter 2023, frequently seen in runway collections paired with classic silhouettes."
+  ],
+  "recent_celebrity_sightings": [],
+  "recent_review_keywords_positive": [
+    "wearable",
+    "classic",
+    "fan favorite",
+    "sought-after",
+    "versatile",
+    "seasonal materials"
+  ],
+  "recent_review_keywords_negative": [],
+  "collectibility_notes": [
+    "The Classic Flap remains a fan favorite and is described as sought-after, with new iterations introduced each season, signaling its ongoing desirability and potential collectibility."
+  ],
+  "overall_trend_summary": "The Chanel Classic Flap handbag continues to be highly featured in recent seasonal collections, with updates in materials and colors that reinforce its status as a wearable, fan-favorite, and sought-after classic. Its ongoing presence in major pre-collections and trend reports underscores its collectibility, though no specific celebrity sightings or negative feedback were noted in the past six months.",
+  "key_sources": [
+    "https://www.purseblog.com/chanel/chanel-pre-collection-fall-2023-bags-are-here/",
+    "https://www.sothebys.com/en/articles/metallic-chanel-bags-on-trend-for-fall-winter-2023",
+    "https://www.chanel.com/us/fashion/"
+  ],
+  "trend_score": 0.537,
+  "trend_category": "Medium",
+  "raw_score": 0.65,
+  "calculation_inputs": {
+    "num_runway": 2,
+    "num_celebs": 0,
+    "num_pos_keywords": 6,
+    "num_neg_keywords": 0,
+    "num_collect_notes": 1,
+    "has_investment_mention": 0,
+    "has_rarity_mention": 0
+  },
+  "trend_factors": [
+    {
+      "name": "Runway Presence",
+      "score": 0.2,
+      "count": 2,
+      "weight": 0.1
+    },
+    {
+      "name": "Celebrity Endorsement",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.2
+    },
+    {
+      "name": "Positive Reviews",
+      "score": 0.30000000000000004,
+      "count": 6,
+      "weight": 0.05
+    },
+    {
+      "name": "Negative Reviews",
+      "score": -0.0,
+      "count": 0,
+      "weight": -0.03
+    },
+    {
+      "name": "Collectibility Notes",
+      "score": 0.15,
+      "count": 1,
+      "weight": 0.15
+    },
+    {
+      "name": "Investment Value",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.2
+    },
+    {
+      "name": "Rarity Mentions",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.15
+    }
+  ],
+  "cache_timestamp": 1745560041.769237
+}

@@ -1,0 +1,88 @@
+{
+  "target_item": "Louis Vuitton Neverfull MM",
+  "timeframe": "last 6 months",
+  "recent_runway_mentions": [
+    "Multiple new versions of the Neverfull MM, including 'Epi Heritage Colors', 'Inside Out', 'Upside Down', and 'Colormania', are set to launch in 2024 and early 2025, with at least one previewed during recent runway collections.",
+    "A new Neverfull variant called the 'Never Ever Full', featuring a zip closure, was previewed in the recent Louis Vuitton men's Spring-Summer 2025 collection."
+  ],
+  "recent_celebrity_sightings": [],
+  "recent_review_keywords_positive": [
+    "iconic",
+    "versatile",
+    "spacious",
+    "updated colors",
+    "anticipated zip closure"
+  ],
+  "recent_review_keywords_negative": [
+    "repetitive design",
+    "name dislike (Never Ever Full)",
+    "lack of significant changes"
+  ],
+  "collectibility_notes": [
+    "Louis Vuitton is releasing several new and limited versions of the Neverfull MM, which may impact its desirability and collectibility.",
+    "Introduction of unique editions and updated features like the zip closure could boost its investment value for collectors."
+  ],
+  "overall_trend_summary": "The Louis Vuitton Neverfull MM continues to be a highly visible and evolving staple in the brand's lineup, with multiple new versions, colors, and features previewed in major runway contexts over the past six months. While general public excitement is strong for fresh updates (like the zip closure), some reviews note fatigue with the core design. The introduction of distinctive editions is supporting ongoing collectibility and investment interest.",
+  "key_sources": [
+    "https://www.youtube.com/watch?v=MbnNf-yipmM",
+    "https://www.pursebop.com/louis-vuitton-introduces-hot-new-bags-for-spring-summer-2025/",
+    "https://www.youtube.com/watch?v=y6NGVqahOOE"
+  ],
+  "trend_score": 0.625,
+  "trend_category": "Medium",
+  "raw_score": 1.01,
+  "calculation_inputs": {
+    "num_runway": 2,
+    "num_celebs": 0,
+    "num_pos_keywords": 5,
+    "num_neg_keywords": 3,
+    "num_collect_notes": 2,
+    "has_investment_mention": 1,
+    "has_rarity_mention": 1
+  },
+  "trend_factors": [
+    {
+      "name": "Runway Presence",
+      "score": 0.2,
+      "count": 2,
+      "weight": 0.1
+    },
+    {
+      "name": "Celebrity Endorsement",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.2
+    },
+    {
+      "name": "Positive Reviews",
+      "score": 0.25,
+      "count": 5,
+      "weight": 0.05
+    },
+    {
+      "name": "Negative Reviews",
+      "score": -0.09,
+      "count": 3,
+      "weight": -0.03
+    },
+    {
+      "name": "Collectibility Notes",
+      "score": 0.3,
+      "count": 2,
+      "weight": 0.15
+    },
+    {
+      "name": "Investment Value",
+      "score": 0.2,
+      "count": 1,
+      "weight": 0.2
+    },
+    {
+      "name": "Rarity Mentions",
+      "score": 0.15,
+      "count": 1,
+      "weight": 0.15
+    }
+  ],
+  "cache_timestamp": 1745557944.66666
+}

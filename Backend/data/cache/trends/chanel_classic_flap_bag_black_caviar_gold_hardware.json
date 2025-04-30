@@ -1,0 +1,83 @@
+{
+  "target_item": "Chanel Classic Flap Bag Black Caviar Gold Hardware",
+  "timeframe": "last 6 months",
+  "recent_runway_mentions": [
+    "Featured in CHANEL Cruise 2023/24 Fashion Show",
+    "Part of CHANEL Spring-Summer 2025 Pre-Collection"
+  ],
+  "recent_celebrity_sightings": [],
+  "recent_review_keywords_positive": [],
+  "recent_review_keywords_negative": [
+    "Light scratching to hardware",
+    "Light markings to underside of flap",
+    "Light indentations to top of double flap"
+  ],
+  "collectibility_notes": [
+    "Available through Sotheby's marketplace indicating resale value",
+    "Described as part of 'The Emblematics collection' by Chanel",
+    "CHANEL offers 'CHANEL & moi' services to preserve and restore bags, enhancing long-term ownership value"
+  ],
+  "overall_trend_summary": "The Chanel Classic Flap Bag in Black Caviar with Gold Hardware remains a key piece in Chanel's current collections, appearing in recent runway shows. It has established collectibility value as evidenced by its presence in luxury resale markets like Sotheby's and Chanel's own investment in preservation services for long-term ownership.",
+  "key_sources": [
+    "https://www.chanel.com/us/fashion/handbags/c/1x1x1x1/flap-bags/",
+    "https://www.youtube.com/watch?v=ijCpXacy-3Q",
+    "https://www.sothebys.com/en/buy/_chanel-black-quilted-caviar-medium-classic-double-flap-bag-pale-gold-hardware-2023"
+  ],
+  "trend_score": 0.515,
+  "trend_category": "Medium",
+  "raw_score": 0.56,
+  "calculation_inputs": {
+    "num_runway": 2,
+    "num_celebs": 0,
+    "num_pos_keywords": 0,
+    "num_neg_keywords": 3,
+    "num_collect_notes": 3,
+    "has_investment_mention": 0,
+    "has_rarity_mention": 0
+  },
+  "trend_factors": [
+    {
+      "name": "Runway Presence",
+      "score": 0.2,
+      "count": 2,
+      "weight": 0.1
+    },
+    {
+      "name": "Celebrity Endorsement",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.2
+    },
+    {
+      "name": "Positive Reviews",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.05
+    },
+    {
+      "name": "Negative Reviews",
+      "score": -0.09,
+      "count": 3,
+      "weight": -0.03
+    },
+    {
+      "name": "Collectibility Notes",
+      "score": 0.44999999999999996,
+      "count": 3,
+      "weight": 0.15
+    },
+    {
+      "name": "Investment Value",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.2
+    },
+    {
+      "name": "Rarity Mentions",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.15
+    }
+  ],
+  "cache_timestamp": 1745884999.584625
+}

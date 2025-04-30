@@ -1,0 +1,87 @@
+{
+  "target_item": "Louis Vuitton Neverfull MM handbag",
+  "timeframe": "last 6 months",
+  "recent_runway_mentions": [
+    "Several new versions of the Neverfull MM will be launching in 2024, including 'Epi Heritage Colors', 'Inside Out', 'Upside Down', and 'Colormania'",
+    "The Inside Out Neverfull was featured in a campaign with actress Sophie Turner"
+  ],
+  "recent_celebrity_sightings": [
+    "Sophie Turner (Louis Vuitton's 2024 Neverfull Inside Out campaign)"
+  ],
+  "recent_review_keywords_positive": [
+    "versatile",
+    "beloved",
+    "iconic",
+    "workhorse",
+    "gamechanger",
+    "two-for-one experience"
+  ],
+  "recent_review_keywords_negative": [],
+  "collectibility_notes": [
+    "New versions of the Neverfull MM are being released in September and November 2024",
+    "The Inside Out version gives a 'two-for-one experience that you hardly find in the luxury space'"
+  ],
+  "overall_trend_summary": "The Louis Vuitton Neverfull MM remains a highly relevant and evolving bag, with multiple new variations being released in late 2024. The Inside Out version, featured in a campaign with Sophie Turner, is being particularly highlighted for its versatility and dual functionality, positioning it as an innovative twist on the classic design.",
+  "key_sources": [
+    "https://www.youtube.com/watch?v=MbnNf-yipmM",
+    "https://www.out.com/fashion/louis-vuitton-inside-out-neverfull",
+    "https://www.youtube.com/watch?v=Duyi9NUBoq8"
+  ],
+  "trend_score": 0.622,
+  "trend_category": "Medium",
+  "raw_score": 1.0,
+  "calculation_inputs": {
+    "num_runway": 2,
+    "num_celebs": 1,
+    "num_pos_keywords": 6,
+    "num_neg_keywords": 0,
+    "num_collect_notes": 2,
+    "has_investment_mention": 0,
+    "has_rarity_mention": 0
+  },
+  "trend_factors": [
+    {
+      "name": "Runway Presence",
+      "score": 0.2,
+      "count": 2,
+      "weight": 0.1
+    },
+    {
+      "name": "Celebrity Endorsement",
+      "score": 0.2,
+      "count": 1,
+      "weight": 0.2
+    },
+    {
+      "name": "Positive Reviews",
+      "score": 0.30000000000000004,
+      "count": 6,
+      "weight": 0.05
+    },
+    {
+      "name": "Negative Reviews",
+      "score": -0.0,
+      "count": 0,
+      "weight": -0.03
+    },
+    {
+      "name": "Collectibility Notes",
+      "score": 0.3,
+      "count": 2,
+      "weight": 0.15
+    },
+    {
+      "name": "Investment Value",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.2
+    },
+    {
+      "name": "Rarity Mentions",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.15
+    }
+  ],
+  "cache_timestamp": 1745885580.6671958
+}

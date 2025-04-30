@@ -1,0 +1,75 @@
+{
+  "target_item": "Louis Vuitton Pochette Accessoires",
+  "timeframe": "last 6 months",
+  "recent_runway_mentions": [
+    "Louis Vuitton's Spring-Summer 2025 Paris runway show featured reinterpreted handbags that balanced heritage references with invigorated flair, though no explicit mention or clear visual confirmation of the Pochette Accessoires was located in show recaps.",
+    "Louis Vuitton Autumn-Winter 2025 Paris Fashion Week showcased revisited it-bags and new bag models, but direct mention or focus on the Pochette Accessoires as a highlight was not found."
+  ],
+  "recent_celebrity_sightings": [],
+  "recent_review_keywords_positive": [],
+  "recent_review_keywords_negative": [],
+  "collectibility_notes": [],
+  "overall_trend_summary": "Recent Louis Vuitton runway shows for Spring-Summer and Autumn-Winter 2025 emphasized new and reinterpreted handbags, with broad references to 'it-bags' and heritage designs. However, there is no explicit confirmation that the Pochette Accessoires itself appeared prominently in these shows, nor are there documented recent sightings by celebrities, or user review trends, suggesting minimal visible trend momentum for this particular model over the past six months.",
+  "key_sources": [
+    "https://www.lofficielibiza.com/fashion/louis-vuitton-must-have-bags-and-accessories-from-the-autumn-winter-2025-show",
+    "https://us.louisvuitton.com/eng-us/magazine/articles/women-spring-summer-2025-show",
+    "https://www.pursebop.com/louis-vuitton-introduces-hot-new-bags-for-spring-summer-2025/"
+  ],
+  "trend_score": 0.426,
+  "trend_category": "Low",
+  "raw_score": 0.2,
+  "calculation_inputs": {
+    "num_runway": 2,
+    "num_celebs": 0,
+    "num_pos_keywords": 0,
+    "num_neg_keywords": 0,
+    "num_collect_notes": 0,
+    "has_investment_mention": 0,
+    "has_rarity_mention": 0
+  },
+  "trend_factors": [
+    {
+      "name": "Runway Presence",
+      "score": 0.2,
+      "count": 2,
+      "weight": 0.1
+    },
+    {
+      "name": "Celebrity Endorsement",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.2
+    },
+    {
+      "name": "Positive Reviews",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.05
+    },
+    {
+      "name": "Negative Reviews",
+      "score": -0.0,
+      "count": 0,
+      "weight": -0.03
+    },
+    {
+      "name": "Collectibility Notes",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.15
+    },
+    {
+      "name": "Investment Value",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.2
+    },
+    {
+      "name": "Rarity Mentions",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.15
+    }
+  ],
+  "cache_timestamp": 1745558597.5540302
+}

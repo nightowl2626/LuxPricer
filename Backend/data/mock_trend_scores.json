@@ -1,0 +1,26 @@
+[
+  {
+    "designer": "Gucci",
+    "model": "Horsebit 1955",
+    "size": "Medium",
+    "material": "Leather",
+    "color": "Brown",
+    "trend_score": 0.75
+  },
+  {
+    "designer": "Gucci",
+    "model": "Horsebit 1955",
+    "size": "Medium",
+    "material": "Canvas",
+    "color": "Beige/Ebony",
+    "trend_score": 0.8
+  },
+  {
+    "designer": "Chanel",
+    "model": "Classic Flap",
+    "size": "Medium",
+    "material": "Lambskin",
+    "color": "Black",
+    "trend_score": 0.9
+  }
+]

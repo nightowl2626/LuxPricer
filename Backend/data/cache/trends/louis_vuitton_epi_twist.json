@@ -1,0 +1,82 @@
+{
+  "target_item": "Louis Vuitton Epi Twist",
+  "timeframe": "last 6 months",
+  "recent_runway_mentions": [],
+  "recent_celebrity_sightings": [],
+  "recent_review_keywords_positive": [
+    "iconic LV Twist lock",
+    "fashionable day-to-evening companion",
+    "roomy design",
+    "cleverly designed 'wave' base",
+    "versatile carry options",
+    "elegant colors"
+  ],
+  "recent_review_keywords_negative": [],
+  "collectibility_notes": [
+    "A New Classic of the House, the Twist bag was introduced at the 2015 Cruise show.",
+    "Available in new seasonal colors, maintaining its presence in the current Louis Vuitton collection."
+  ],
+  "overall_trend_summary": "The Louis Vuitton Epi Twist remains part of the brand's ongoing collection, with positive feedback centered on its iconic design, versatility, and new color options. However, there are no notable mentions of recent runway appearances or celebrity sightings, and minimal review criticism is visible in current sources.",
+  "key_sources": [
+    "https://us.louisvuitton.com/eng-us/products/twist-mm-epi-nvprod1000317v/M21120",
+    "https://us.louisvuitton.com/eng-us/products/twist-mm-epi-nvprod920001v/M21113",
+    "https://us.louisvuitton.com/eng-us/products/twist-pm-epi-009188/M21133"
+  ],
+  "trend_score": 0.525,
+  "trend_category": "Medium",
+  "raw_score": 0.6,
+  "calculation_inputs": {
+    "num_runway": 0,
+    "num_celebs": 0,
+    "num_pos_keywords": 6,
+    "num_neg_keywords": 0,
+    "num_collect_notes": 2,
+    "has_investment_mention": 0,
+    "has_rarity_mention": 0
+  },
+  "trend_factors": [
+    {
+      "name": "Runway Presence",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.1
+    },
+    {
+      "name": "Celebrity Endorsement",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.2
+    },
+    {
+      "name": "Positive Reviews",
+      "score": 0.30000000000000004,
+      "count": 6,
+      "weight": 0.05
+    },
+    {
+      "name": "Negative Reviews",
+      "score": -0.0,
+      "count": 0,
+      "weight": -0.03
+    },
+    {
+      "name": "Collectibility Notes",
+      "score": 0.3,
+      "count": 2,
+      "weight": 0.15
+    },
+    {
+      "name": "Investment Value",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.2
+    },
+    {
+      "name": "Rarity Mentions",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.15
+    }
+  ],
+  "cache_timestamp": 1745689008.804694
+}

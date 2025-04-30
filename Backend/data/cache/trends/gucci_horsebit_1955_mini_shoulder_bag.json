@@ -1,0 +1,87 @@
+{
+  "target_item": "Gucci Horsebit 1955 mini shoulder bag",
+  "timeframe": "last 6 months",
+  "recent_runway_mentions": [
+    "The Fall/Winter 2025 runway introduced the Soft Horsebit 1955, a new variation inspired by the original 1955 Horsebit bag, highlighting its presence in recent shows.[5]",
+    "Gucci's Cruise 2025 Fashion Show presented items from the Horsebit 1955 collection, reaffirming the bag's runway relevance in the latest Gucci presentations.[2]"
+  ],
+  "recent_celebrity_sightings": [],
+  "recent_review_keywords_positive": [
+    "versatile straps",
+    "contemporary twist",
+    "iconic horsebit detail",
+    "fits essentials",
+    "elegance"
+  ],
+  "recent_review_keywords_negative": [
+    "rigidity (compared to new Softbit update)",
+    "May lose shape if overfilled"
+  ],
+  "collectibility_notes": [
+    "The Horsebit 1955 line is described as a 'classic' and 'iconic,' with recent runway updates and reinterpretations signaling continued collectibility and relevance within Gucci's heritage.[5]",
+    "No mention of discontinuation; instead, evolution into new silhouettes (e.g., Softbit) suggests ongoing demand and collector interest.[5]"
+  ],
+  "overall_trend_summary": "The Gucci Horsebit 1955 mini shoulder bag remains a staple in Gucci's evolving collections, featured on recent runways with new adaptations and highlighted as a classic icon. While no recent high-profile celebrity sightings were found, positive feedback centers on its versatility and timeless appeal. Recent runways demonstrate Gucci's commitment to reimagining the Horsebit line, enhancing its ongoing desirability and collectibility in the luxury market.",
+  "key_sources": [
+    "https://www.gucci.com/us/en/ms/cruise-2025-fashion-show/",
+    "https://mega-asia.com/fashion/the-gucci-horsebit-is-the-emblem-that-keeps-reinventing-itself/",
+    "https://www.gucci.com/us/en/pr/women/handbags/shoulder-bags-for-women/gucci-horsebit-1955-mini-shoulder-bag-p-65857418YSG1060"
+  ],
+  "trend_score": 0.547,
+  "trend_category": "Medium",
+  "raw_score": 0.69,
+  "calculation_inputs": {
+    "num_runway": 2,
+    "num_celebs": 0,
+    "num_pos_keywords": 5,
+    "num_neg_keywords": 2,
+    "num_collect_notes": 2,
+    "has_investment_mention": 0,
+    "has_rarity_mention": 0
+  },
+  "trend_factors": [
+    {
+      "name": "Runway Presence",
+      "score": 0.2,
+      "count": 2,
+      "weight": 0.1
+    },
+    {
+      "name": "Celebrity Endorsement",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.2
+    },
+    {
+      "name": "Positive Reviews",
+      "score": 0.25,
+      "count": 5,
+      "weight": 0.05
+    },
+    {
+      "name": "Negative Reviews",
+      "score": -0.06,
+      "count": 2,
+      "weight": -0.03
+    },
+    {
+      "name": "Collectibility Notes",
+      "score": 0.3,
+      "count": 2,
+      "weight": 0.15
+    },
+    {
+      "name": "Investment Value",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.2
+    },
+    {
+      "name": "Rarity Mentions",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.15
+    }
+  ],
+  "cache_timestamp": 1745687742.415191
+}

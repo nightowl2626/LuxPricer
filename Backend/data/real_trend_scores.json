@@ -1,0 +1,2584 @@
+[
+  {
+    "designer": "Louis Vuitton",
+    "model": "Pochette",
+    "trend_score": 0.378,
+    "trend_category": "Low",
+    "perplexity_data": {
+      "runway_mentions": [],
+      "celebrity_sightings": [],
+      "positive_keywords": [],
+      "negative_keywords": [],
+      "collectibility_notes": [],
+      "summary": "N/A",
+      "sources": [],
+      "trend_factors": [
+        {
+          "name": "Runway Presence",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.1
+        },
+        {
+          "name": "Celebrity Endorsement",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Positive Reviews",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.05
+        },
+        {
+          "name": "Negative Reviews",
+          "score": -0.0,
+          "count": 0,
+          "weight": -0.03
+        },
+        {
+          "name": "Collectibility Notes",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        },
+        {
+          "name": "Investment Value",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Rarity Mentions",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        }
+      ]
+    },
+    "raw_calculation": {
+      "raw_score": 0.0,
+      "calculation_inputs": {
+        "num_runway": 0,
+        "num_celebs": 0,
+        "num_pos_keywords": 0,
+        "num_neg_keywords": 0,
+        "num_collect_notes": 0,
+        "has_investment_mention": 0,
+        "has_rarity_mention": 0
+      }
+    }
+  },
+  {
+    "designer": "Louis",
+    "model": "Vuitton Pochette",
+    "trend_score": 0.378,
+    "trend_category": "Low",
+    "perplexity_data": {
+      "runway_mentions": [],
+      "celebrity_sightings": [],
+      "positive_keywords": [],
+      "negative_keywords": [],
+      "collectibility_notes": [],
+      "summary": "N/A",
+      "sources": [],
+      "trend_factors": [
+        {
+          "name": "Runway Presence",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.1
+        },
+        {
+          "name": "Celebrity Endorsement",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Positive Reviews",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.05
+        },
+        {
+          "name": "Negative Reviews",
+          "score": -0.0,
+          "count": 0,
+          "weight": -0.03
+        },
+        {
+          "name": "Collectibility Notes",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        },
+        {
+          "name": "Investment Value",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Rarity Mentions",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        }
+      ]
+    },
+    "raw_calculation": {
+      "raw_score": 0.0,
+      "calculation_inputs": {
+        "num_runway": 0,
+        "num_celebs": 0,
+        "num_pos_keywords": 0,
+        "num_neg_keywords": 0,
+        "num_collect_notes": 0,
+        "has_investment_mention": 0,
+        "has_rarity_mention": 0
+      }
+    }
+  },
+  {
+    "designer": "Chanel",
+    "model": "Classic Flap",
+    "trend_score": 0.562,
+    "trend_category": "Medium",
+    "perplexity_data": {
+      "runway_mentions": [
+        "The Chanel Classic Flap appeared in new seasonal iterations (like sherpa and bold hues) in the Pre-Collection Fall 2023, considered a precursor to the larger runway collection.",
+        "The bag has been presented alongside new silhouettes and materials in recent Chanel fashion and runway previews."
+      ],
+      "celebrity_sightings": [],
+      "positive_keywords": [
+        "fan favorite",
+        "sought-after",
+        "wearable",
+        "classic",
+        "seasonal materials"
+      ],
+      "negative_keywords": [],
+      "collectibility_notes": [
+        "Described as a 'fan favorite' and 'sought-after,' the Chanel Classic Flap continues to be highlighted for its enduring appeal and collectibility.",
+        "Seasonal updates and new materials (such as sherpa and bold hues) keep the Classic Flap relevant and in demand."
+      ],
+      "summary": "Based on the past six months, the Chanel Classic Flap remains highly sought-after and collectible, with new seasonal versions introduced in the Pre-Collection Fall 2023. While recent runway appearances and buzz about wearable, consumer-friendly styles keep it trending, there is no mention of negative feedback, celebrity sightings, or discontinuation.",
+      "sources": [
+        "https://www.purseblog.com/chanel/chanel-pre-collection-fall-2023-bags-are-here/",
+        "https://www.sothebys.com/en/articles/metallic-chanel-bags-on-trend-for-fall-winter-2023",
+        "https://www.chanel.com/us/fashion/"
+      ],
+      "trend_factors": [
+        {
+          "name": "Runway Presence",
+          "score": 0.2,
+          "count": 2,
+          "weight": 0.1
+        },
+        {
+          "name": "Celebrity Endorsement",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Positive Reviews",
+          "score": 0.25,
+          "count": 5,
+          "weight": 0.05
+        },
+        {
+          "name": "Negative Reviews",
+          "score": -0.0,
+          "count": 0,
+          "weight": -0.03
+        },
+        {
+          "name": "Collectibility Notes",
+          "score": 0.3,
+          "count": 2,
+          "weight": 0.15
+        },
+        {
+          "name": "Investment Value",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Rarity Mentions",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        }
+      ]
+    },
+    "raw_calculation": {
+      "raw_score": 0.75,
+      "calculation_inputs": {
+        "num_runway": 2,
+        "num_celebs": 0,
+        "num_pos_keywords": 5,
+        "num_neg_keywords": 0,
+        "num_collect_notes": 2,
+        "has_investment_mention": 0,
+        "has_rarity_mention": 0
+      }
+    }
+  },
+  {
+    "designer": "Chanel",
+    "model": "Classic Flap handbag Black Lambskin Medium",
+    "trend_score": 0.731,
+    "trend_category": "High",
+    "perplexity_data": {
+      "runway_mentions": [],
+      "celebrity_sightings": [
+        "Hilary Duff",
+        "Paris Hilton",
+        "Audrina Patridge",
+        "Jennifer Aniston"
+      ],
+      "positive_keywords": [
+        "timeless appeal",
+        "elegance",
+        "luxury",
+        "investment potential"
+      ],
+      "negative_keywords": [],
+      "collectibility_notes": [
+        "Frequently included on lists of bags every collector needs, highlighting its timelessness and status as a collector's piece[2].",
+        "Chanel handbags, especially the Classic Flap, are noted for their value retention and investment potential[2][5]."
+      ],
+      "summary": "The Chanel Classic Flap handbag in black lambskin medium remains a highly coveted and collectible luxury item. It continues to be favored by celebrities and collectors alike, with strong mentions of its investment value and timeless design. There are no notable negative reviews or recent runway mentions from the past six months, but its presence on influential lists and with high-profile users underscores sustained desirability.",
+      "sources": [
+        "https://www.sothebys.com/en/articles/the-eight-chanel-bags-every-collector-needs",
+        "https://loveluxury.co.uk/topics/celebrity-moments-chanel-bags/",
+        "https://www.chanel.com/us/fashion/p/A01112Y0129594305/classic-11-12-handbag-lambskin-gold-tone-metal/"
+      ],
+      "trend_factors": [
+        {
+          "name": "Runway Presence",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.1
+        },
+        {
+          "name": "Celebrity Endorsement",
+          "score": 0.8,
+          "count": 4,
+          "weight": 0.2
+        },
+        {
+          "name": "Positive Reviews",
+          "score": 0.2,
+          "count": 4,
+          "weight": 0.05
+        },
+        {
+          "name": "Negative Reviews",
+          "score": -0.0,
+          "count": 0,
+          "weight": -0.03
+        },
+        {
+          "name": "Collectibility Notes",
+          "score": 0.3,
+          "count": 2,
+          "weight": 0.15
+        },
+        {
+          "name": "Investment Value",
+          "score": 0.2,
+          "count": 1,
+          "weight": 0.2
+        },
+        {
+          "name": "Rarity Mentions",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        }
+      ]
+    },
+    "raw_calculation": {
+      "raw_score": 1.5,
+      "calculation_inputs": {
+        "num_runway": 0,
+        "num_celebs": 4,
+        "num_pos_keywords": 4,
+        "num_neg_keywords": 0,
+        "num_collect_notes": 2,
+        "has_investment_mention": 1,
+        "has_rarity_mention": 0
+      }
+    }
+  },
+  {
+    "designer": "Louis",
+    "model": "Vuitton Epi Twist Shoulder Bag",
+    "trend_score": 0.378,
+    "trend_category": "Low",
+    "perplexity_data": {
+      "runway_mentions": [],
+      "celebrity_sightings": [],
+      "positive_keywords": [],
+      "negative_keywords": [],
+      "collectibility_notes": [],
+      "summary": "N/A",
+      "sources": [
+        "https://us.louisvuitton.com/eng-us/products/twist-mm-epi-nvprod5650087v/M11723",
+        "https://us.louisvuitton.com/eng-us/women/handbags/lv-icons/twist/_/N-td4mq4v-ak6wyyhe"
+      ],
+      "trend_factors": [
+        {
+          "name": "Runway Presence",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.1
+        },
+        {
+          "name": "Celebrity Endorsement",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Positive Reviews",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.05
+        },
+        {
+          "name": "Negative Reviews",
+          "score": -0.0,
+          "count": 0,
+          "weight": -0.03
+        },
+        {
+          "name": "Collectibility Notes",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        },
+        {
+          "name": "Investment Value",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Rarity Mentions",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        }
+      ]
+    },
+    "raw_calculation": {
+      "raw_score": 0.0,
+      "calculation_inputs": {
+        "num_runway": 0,
+        "num_celebs": 0,
+        "num_pos_keywords": 0,
+        "num_neg_keywords": 0,
+        "num_collect_notes": 0,
+        "has_investment_mention": 0,
+        "has_rarity_mention": 0
+      }
+    }
+  },
+  {
+    "designer": "Louis Vuitton",
+    "model": "Epi Twist Shoulder Bag",
+    "trend_score": 0.378,
+    "trend_category": "Low",
+    "perplexity_data": {
+      "runway_mentions": [],
+      "celebrity_sightings": [],
+      "positive_keywords": [],
+      "negative_keywords": [],
+      "collectibility_notes": [],
+      "summary": "N/A",
+      "sources": [
+        "https://us.louisvuitton.com/eng-us/products/twist-mm-epi-nvprod5650087v/M11723",
+        "https://us.louisvuitton.com/eng-us/women/handbags/lv-icons/twist/_/N-td4mq4v-ak6wyyhe"
+      ],
+      "trend_factors": [
+        {
+          "name": "Runway Presence",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.1
+        },
+        {
+          "name": "Celebrity Endorsement",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Positive Reviews",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.05
+        },
+        {
+          "name": "Negative Reviews",
+          "score": -0.0,
+          "count": 0,
+          "weight": -0.03
+        },
+        {
+          "name": "Collectibility Notes",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        },
+        {
+          "name": "Investment Value",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Rarity Mentions",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        }
+      ]
+    },
+    "raw_calculation": {
+      "raw_score": 0.0,
+      "calculation_inputs": {
+        "num_runway": 0,
+        "num_celebs": 0,
+        "num_pos_keywords": 0,
+        "num_neg_keywords": 0,
+        "num_collect_notes": 0,
+        "has_investment_mention": 0,
+        "has_rarity_mention": 0
+      }
+    }
+  },
+  {
+    "designer": "Louis",
+    "model": "Vuitton Neverfull MM Damier Ebene",
+    "trend_score": 0.584,
+    "trend_category": "Medium",
+    "perplexity_data": {
+      "runway_mentions": [
+        "The iconic Neverfull received a luxe makeover in vibrant red crocodile leather with gold-tone hardware during the Louis Vuitton Spring-Summer 2025 runway show at Paris Fashion Week.",
+        "Louis Vuitton's Fall/Winter 2025/26 fashion show featured a variety of Louis Vuitton bags, but no direct mention of the classic Damier Ebene Neverfull MM in the show summaries."
+      ],
+      "celebrity_sightings": [],
+      "positive_keywords": [
+        "timeless",
+        "versatile",
+        "everyday companion",
+        "iconic style"
+      ],
+      "negative_keywords": [
+        "lack of innovation",
+        "desire for exclusive editions"
+      ],
+      "collectibility_notes": [
+        "The Neverfull is described as a timeless tote with enduring appeal, and its recent iterations in exotic leathers suggest Louis Vuitton's ongoing investment in the style.",
+        "Recent buzz around new reversible and exotic versions may enhance the bag's collectibility and future desirability."
+      ],
+      "summary": "The Louis Vuitton Neverfull MM remains a staple, with the brand introducing new luxe versions on recent runways, signaling ongoing relevance. No major celebrity sightings or viral moments in the past six months, but positive sentiment around its versatility and iconic status persists. Reviews express a desire for more exclusive variants, likely fueling collectible interest in limited editions or new materials.",
+      "sources": [
+        "https://www.pursebop.com/louis-vuitton-introduces-hot-new-bags-for-spring-summer-2025/",
+        "https://www.youtube.com/watch?v=V0sZvlw8IS0",
+        "https://us.louisvuitton.com/eng-us/women/handbags/all-handbags/neverfull/_/N-tfr7qdp-ak1hsf6m9"
+      ],
+      "trend_factors": [
+        {
+          "name": "Runway Presence",
+          "score": 0.2,
+          "count": 2,
+          "weight": 0.1
+        },
+        {
+          "name": "Celebrity Endorsement",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Positive Reviews",
+          "score": 0.2,
+          "count": 4,
+          "weight": 0.05
+        },
+        {
+          "name": "Negative Reviews",
+          "score": -0.06,
+          "count": 2,
+          "weight": -0.03
+        },
+        {
+          "name": "Collectibility Notes",
+          "score": 0.3,
+          "count": 2,
+          "weight": 0.15
+        },
+        {
+          "name": "Investment Value",
+          "score": 0.2,
+          "count": 1,
+          "weight": 0.2
+        },
+        {
+          "name": "Rarity Mentions",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        }
+      ]
+    },
+    "raw_calculation": {
+      "raw_score": 0.84,
+      "calculation_inputs": {
+        "num_runway": 2,
+        "num_celebs": 0,
+        "num_pos_keywords": 4,
+        "num_neg_keywords": 2,
+        "num_collect_notes": 2,
+        "has_investment_mention": 1,
+        "has_rarity_mention": 0
+      }
+    }
+  },
+  {
+    "designer": "Louis Vuitton",
+    "model": "Neverfull MM",
+    "trend_score": 0.625,
+    "trend_category": "Medium",
+    "perplexity_data": {
+      "runway_mentions": [
+        "Multiple new versions of the Neverfull MM, including 'Epi Heritage Colors', 'Inside Out', 'Upside Down', and 'Colormania', are set to launch in 2024 and early 2025, with at least one previewed during recent runway collections.",
+        "A new Neverfull variant called the 'Never Ever Full', featuring a zip closure, was previewed in the recent Louis Vuitton men's Spring-Summer 2025 collection."
+      ],
+      "celebrity_sightings": [],
+      "positive_keywords": [
+        "iconic",
+        "versatile",
+        "spacious",
+        "updated colors",
+        "anticipated zip closure"
+      ],
+      "negative_keywords": [
+        "repetitive design",
+        "name dislike (Never Ever Full)",
+        "lack of significant changes"
+      ],
+      "collectibility_notes": [
+        "Louis Vuitton is releasing several new and limited versions of the Neverfull MM, which may impact its desirability and collectibility.",
+        "Introduction of unique editions and updated features like the zip closure could boost its investment value for collectors."
+      ],
+      "summary": "The Louis Vuitton Neverfull MM continues to be a highly visible and evolving staple in the brand's lineup, with multiple new versions, colors, and features previewed in major runway contexts over the past six months. While general public excitement is strong for fresh updates (like the zip closure), some reviews note fatigue with the core design. The introduction of distinctive editions is supporting ongoing collectibility and investment interest.",
+      "sources": [
+        "https://www.youtube.com/watch?v=MbnNf-yipmM",
+        "https://www.pursebop.com/louis-vuitton-introduces-hot-new-bags-for-spring-summer-2025/",
+        "https://www.youtube.com/watch?v=y6NGVqahOOE"
+      ],
+      "trend_factors": [
+        {
+          "name": "Runway Presence",
+          "score": 0.2,
+          "count": 2,
+          "weight": 0.1
+        },
+        {
+          "name": "Celebrity Endorsement",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Positive Reviews",
+          "score": 0.25,
+          "count": 5,
+          "weight": 0.05
+        },
+        {
+          "name": "Negative Reviews",
+          "score": -0.09,
+          "count": 3,
+          "weight": -0.03
+        },
+        {
+          "name": "Collectibility Notes",
+          "score": 0.3,
+          "count": 2,
+          "weight": 0.15
+        },
+        {
+          "name": "Investment Value",
+          "score": 0.2,
+          "count": 1,
+          "weight": 0.2
+        },
+        {
+          "name": "Rarity Mentions",
+          "score": 0.15,
+          "count": 1,
+          "weight": 0.15
+        }
+      ]
+    },
+    "raw_calculation": {
+      "raw_score": 1.01,
+      "calculation_inputs": {
+        "num_runway": 2,
+        "num_celebs": 0,
+        "num_pos_keywords": 5,
+        "num_neg_keywords": 3,
+        "num_collect_notes": 2,
+        "has_investment_mention": 1,
+        "has_rarity_mention": 1
+      }
+    }
+  },
+  {
+    "designer": "Louis",
+    "model": "Vuitton Pochette Accessoires",
+    "trend_score": 0.426,
+    "trend_category": "Low",
+    "perplexity_data": {
+      "runway_mentions": [
+        "Louis Vuitton's Spring-Summer 2025 Paris runway show featured reinterpreted handbags that balanced heritage references with invigorated flair, though no explicit mention or clear visual confirmation of the Pochette Accessoires was located in show recaps.",
+        "Louis Vuitton Autumn-Winter 2025 Paris Fashion Week showcased revisited it-bags and new bag models, but direct mention or focus on the Pochette Accessoires as a highlight was not found."
+      ],
+      "celebrity_sightings": [],
+      "positive_keywords": [],
+      "negative_keywords": [],
+      "collectibility_notes": [],
+      "summary": "Recent Louis Vuitton runway shows for Spring-Summer and Autumn-Winter 2025 emphasized new and reinterpreted handbags, with broad references to 'it-bags' and heritage designs. However, there is no explicit confirmation that the Pochette Accessoires itself appeared prominently in these shows, nor are there documented recent sightings by celebrities, or user review trends, suggesting minimal visible trend momentum for this particular model over the past six months.",
+      "sources": [
+        "https://www.lofficielibiza.com/fashion/louis-vuitton-must-have-bags-and-accessories-from-the-autumn-winter-2025-show",
+        "https://us.louisvuitton.com/eng-us/magazine/articles/women-spring-summer-2025-show",
+        "https://www.pursebop.com/louis-vuitton-introduces-hot-new-bags-for-spring-summer-2025/"
+      ],
+      "trend_factors": [
+        {
+          "name": "Runway Presence",
+          "score": 0.2,
+          "count": 2,
+          "weight": 0.1
+        },
+        {
+          "name": "Celebrity Endorsement",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Positive Reviews",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.05
+        },
+        {
+          "name": "Negative Reviews",
+          "score": -0.0,
+          "count": 0,
+          "weight": -0.03
+        },
+        {
+          "name": "Collectibility Notes",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        },
+        {
+          "name": "Investment Value",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Rarity Mentions",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        }
+      ]
+    },
+    "raw_calculation": {
+      "raw_score": 0.2,
+      "calculation_inputs": {
+        "num_runway": 2,
+        "num_celebs": 0,
+        "num_pos_keywords": 0,
+        "num_neg_keywords": 0,
+        "num_collect_notes": 0,
+        "has_investment_mention": 0,
+        "has_rarity_mention": 0
+      }
+    }
+  },
+  {
+    "designer": "Louis Vuitton",
+    "model": "Pochette Accessoires",
+    "trend_score": 0.426,
+    "trend_category": "Low",
+    "perplexity_data": {
+      "runway_mentions": [
+        "Louis Vuitton's Spring-Summer 2025 Paris runway show featured reinterpreted handbags that balanced heritage references with invigorated flair, though no explicit mention or clear visual confirmation of the Pochette Accessoires was located in show recaps.",
+        "Louis Vuitton Autumn-Winter 2025 Paris Fashion Week showcased revisited it-bags and new bag models, but direct mention or focus on the Pochette Accessoires as a highlight was not found."
+      ],
+      "celebrity_sightings": [],
+      "positive_keywords": [],
+      "negative_keywords": [],
+      "collectibility_notes": [],
+      "summary": "Recent Louis Vuitton runway shows for Spring-Summer and Autumn-Winter 2025 emphasized new and reinterpreted handbags, with broad references to 'it-bags' and heritage designs. However, there is no explicit confirmation that the Pochette Accessoires itself appeared prominently in these shows, nor are there documented recent sightings by celebrities, or user review trends, suggesting minimal visible trend momentum for this particular model over the past six months.",
+      "sources": [
+        "https://www.lofficielibiza.com/fashion/louis-vuitton-must-have-bags-and-accessories-from-the-autumn-winter-2025-show",
+        "https://us.louisvuitton.com/eng-us/magazine/articles/women-spring-summer-2025-show",
+        "https://www.pursebop.com/louis-vuitton-introduces-hot-new-bags-for-spring-summer-2025/"
+      ],
+      "trend_factors": [
+        {
+          "name": "Runway Presence",
+          "score": 0.2,
+          "count": 2,
+          "weight": 0.1
+        },
+        {
+          "name": "Celebrity Endorsement",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Positive Reviews",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.05
+        },
+        {
+          "name": "Negative Reviews",
+          "score": -0.0,
+          "count": 0,
+          "weight": -0.03
+        },
+        {
+          "name": "Collectibility Notes",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        },
+        {
+          "name": "Investment Value",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Rarity Mentions",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        }
+      ]
+    },
+    "raw_calculation": {
+      "raw_score": 0.2,
+      "calculation_inputs": {
+        "num_runway": 2,
+        "num_celebs": 0,
+        "num_pos_keywords": 0,
+        "num_neg_keywords": 0,
+        "num_collect_notes": 0,
+        "has_investment_mention": 0,
+        "has_rarity_mention": 0
+      }
+    }
+  },
+  {
+    "designer": "Louis",
+    "model": "Vuitton Neverfull MM",
+    "trend_score": 0.625,
+    "trend_category": "Medium",
+    "perplexity_data": {
+      "runway_mentions": [
+        "Multiple new versions of the Neverfull MM, including 'Epi Heritage Colors', 'Inside Out', 'Upside Down', and 'Colormania', are set to launch in 2024 and early 2025, with at least one previewed during recent runway collections.",
+        "A new Neverfull variant called the 'Never Ever Full', featuring a zip closure, was previewed in the recent Louis Vuitton men's Spring-Summer 2025 collection."
+      ],
+      "celebrity_sightings": [],
+      "positive_keywords": [
+        "iconic",
+        "versatile",
+        "spacious",
+        "updated colors",
+        "anticipated zip closure"
+      ],
+      "negative_keywords": [
+        "repetitive design",
+        "name dislike (Never Ever Full)",
+        "lack of significant changes"
+      ],
+      "collectibility_notes": [
+        "Louis Vuitton is releasing several new and limited versions of the Neverfull MM, which may impact its desirability and collectibility.",
+        "Introduction of unique editions and updated features like the zip closure could boost its investment value for collectors."
+      ],
+      "summary": "The Louis Vuitton Neverfull MM continues to be a highly visible and evolving staple in the brand's lineup, with multiple new versions, colors, and features previewed in major runway contexts over the past six months. While general public excitement is strong for fresh updates (like the zip closure), some reviews note fatigue with the core design. The introduction of distinctive editions is supporting ongoing collectibility and investment interest.",
+      "sources": [
+        "https://www.youtube.com/watch?v=MbnNf-yipmM",
+        "https://www.pursebop.com/louis-vuitton-introduces-hot-new-bags-for-spring-summer-2025/",
+        "https://www.youtube.com/watch?v=y6NGVqahOOE"
+      ],
+      "trend_factors": [
+        {
+          "name": "Runway Presence",
+          "score": 0.2,
+          "count": 2,
+          "weight": 0.1
+        },
+        {
+          "name": "Celebrity Endorsement",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Positive Reviews",
+          "score": 0.25,
+          "count": 5,
+          "weight": 0.05
+        },
+        {
+          "name": "Negative Reviews",
+          "score": -0.09,
+          "count": 3,
+          "weight": -0.03
+        },
+        {
+          "name": "Collectibility Notes",
+          "score": 0.3,
+          "count": 2,
+          "weight": 0.15
+        },
+        {
+          "name": "Investment Value",
+          "score": 0.2,
+          "count": 1,
+          "weight": 0.2
+        },
+        {
+          "name": "Rarity Mentions",
+          "score": 0.15,
+          "count": 1,
+          "weight": 0.15
+        }
+      ]
+    },
+    "raw_calculation": {
+      "raw_score": 1.01,
+      "calculation_inputs": {
+        "num_runway": 2,
+        "num_celebs": 0,
+        "num_pos_keywords": 5,
+        "num_neg_keywords": 3,
+        "num_collect_notes": 2,
+        "has_investment_mention": 1,
+        "has_rarity_mention": 1
+      }
+    }
+  },
+  {
+    "designer": "Chanel",
+    "model": "Classic Flap handbag Black Lambskin",
+    "trend_score": 0.577,
+    "trend_category": "Medium",
+    "perplexity_data": {
+      "runway_mentions": [
+        "At the Chanel SS25 runway show, influencer Marianne Theodorsen was seen carrying a shiny lambskin Chanel bag, highlighting the visibility of Chanel's iconic lambskin pieces at major brand events[5]."
+      ],
+      "celebrity_sightings": [
+        "Marianne Theodorsen (Chanel SS25 runway show attendee and influencer)[5]"
+      ],
+      "positive_keywords": [
+        "timeless classic",
+        "iconic",
+        "elegant",
+        "must-have",
+        "investment piece"
+      ],
+      "negative_keywords": [
+        "steep price increase",
+        "expensive",
+        "high cost"
+      ],
+      "collectibility_notes": [
+        "Chanel Classic Flap bags are consistently referred to as timeless classics and must-have investment pieces, with substantial price increases over recent years reinforcing their status as collectible luxury goods[1][2]."
+      ],
+      "summary": "The Chanel Classic Flap Black Lambskin remains a highly visible and sought-after item in both influencer circles and luxury fashion contexts. Its reputation as a timeless, must-have investment piece is reinforced by significant price increases, although these rises are also a common concern among buyers. The bag continues to be featured at major Chanel events and is favored by high-profile personalities, confirming its enduring trendiness and collectibility.",
+      "sources": [
+        "https://www.laiamagazine.com/heres-everything-my-favorite-influencers-wore-to-the-chanel-ss25-runway-show/",
+        "https://www.purseblog.com/chanel/chanel-price-increase-2023/",
+        "https://www.pursebop.com/chanel-must-haves-price-comparison-then-vs-now/"
+      ],
+      "trend_factors": [
+        {
+          "name": "Runway Presence",
+          "score": 0.1,
+          "count": 1,
+          "weight": 0.1
+        },
+        {
+          "name": "Celebrity Endorsement",
+          "score": 0.2,
+          "count": 1,
+          "weight": 0.2
+        },
+        {
+          "name": "Positive Reviews",
+          "score": 0.25,
+          "count": 5,
+          "weight": 0.05
+        },
+        {
+          "name": "Negative Reviews",
+          "score": -0.09,
+          "count": 3,
+          "weight": -0.03
+        },
+        {
+          "name": "Collectibility Notes",
+          "score": 0.15,
+          "count": 1,
+          "weight": 0.15
+        },
+        {
+          "name": "Investment Value",
+          "score": 0.2,
+          "count": 1,
+          "weight": 0.2
+        },
+        {
+          "name": "Rarity Mentions",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        }
+      ]
+    },
+    "raw_calculation": {
+      "raw_score": 0.81,
+      "calculation_inputs": {
+        "num_runway": 1,
+        "num_celebs": 1,
+        "num_pos_keywords": 5,
+        "num_neg_keywords": 3,
+        "num_collect_notes": 1,
+        "has_investment_mention": 1,
+        "has_rarity_mention": 0
+      }
+    }
+  },
+  {
+    "designer": "Chanel",
+    "model": "Classic Flap handbag",
+    "trend_score": 0.537,
+    "trend_category": "Medium",
+    "perplexity_data": {
+      "runway_mentions": [
+        "The Classic Flap was included in Chanel's Pre-Collection Fall 2023, offered in seasonal materials like sherpa and bold hues, alongside other classic styles, as part of a consumer-friendly and sought-after lineup.",
+        "Metallic Chanel bags, including the Classic Flap, are noted as on trend for Fall/Winter 2023, frequently seen in runway collections paired with classic silhouettes."
+      ],
+      "celebrity_sightings": [],
+      "positive_keywords": [
+        "wearable",
+        "classic",
+        "fan favorite",
+        "sought-after",
+        "versatile",
+        "seasonal materials"
+      ],
+      "negative_keywords": [],
+      "collectibility_notes": [
+        "The Classic Flap remains a fan favorite and is described as sought-after, with new iterations introduced each season, signaling its ongoing desirability and potential collectibility."
+      ],
+      "summary": "The Chanel Classic Flap handbag continues to be highly featured in recent seasonal collections, with updates in materials and colors that reinforce its status as a wearable, fan-favorite, and sought-after classic. Its ongoing presence in major pre-collections and trend reports underscores its collectibility, though no specific celebrity sightings or negative feedback were noted in the past six months.",
+      "sources": [
+        "https://www.purseblog.com/chanel/chanel-pre-collection-fall-2023-bags-are-here/",
+        "https://www.sothebys.com/en/articles/metallic-chanel-bags-on-trend-for-fall-winter-2023",
+        "https://www.chanel.com/us/fashion/"
+      ],
+      "trend_factors": [
+        {
+          "name": "Runway Presence",
+          "score": 0.2,
+          "count": 2,
+          "weight": 0.1
+        },
+        {
+          "name": "Celebrity Endorsement",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Positive Reviews",
+          "score": 0.30000000000000004,
+          "count": 6,
+          "weight": 0.05
+        },
+        {
+          "name": "Negative Reviews",
+          "score": -0.0,
+          "count": 0,
+          "weight": -0.03
+        },
+        {
+          "name": "Collectibility Notes",
+          "score": 0.15,
+          "count": 1,
+          "weight": 0.15
+        },
+        {
+          "name": "Investment Value",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Rarity Mentions",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        }
+      ]
+    },
+    "raw_calculation": {
+      "raw_score": 0.65,
+      "calculation_inputs": {
+        "num_runway": 2,
+        "num_celebs": 0,
+        "num_pos_keywords": 6,
+        "num_neg_keywords": 0,
+        "num_collect_notes": 1,
+        "has_investment_mention": 0,
+        "has_rarity_mention": 0
+      }
+    }
+  },
+  {
+    "designer": "Gucci",
+    "model": "Horsebit 1955 Vertical",
+    "trend_score": 0.378,
+    "trend_category": "Low",
+    "perplexity_data": {
+      "runway_mentions": [],
+      "celebrity_sightings": [],
+      "positive_keywords": [],
+      "negative_keywords": [],
+      "collectibility_notes": [],
+      "summary": "N/A",
+      "sources": [
+        "https://www.gucci.com/us/en/ca/whats-new/gucci-horsebit-1955-c-gucci-horsebit-1955",
+        "https://www.gucci.com/us/en/pr/men/bags-for-men/messengers-crossbody-bags-for-men/gucci-horsebit-1955-mini-bag-p-62561592TCG8563",
+        "https://www.gucci.com/sg/en_gb/pr/women/handbags/crossbody-bags-for-women/gucci-horsebit-1955-mini-bag-p-69929692TCG8563"
+      ],
+      "trend_factors": [
+        {
+          "name": "Runway Presence",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.1
+        },
+        {
+          "name": "Celebrity Endorsement",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Positive Reviews",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.05
+        },
+        {
+          "name": "Negative Reviews",
+          "score": -0.0,
+          "count": 0,
+          "weight": -0.03
+        },
+        {
+          "name": "Collectibility Notes",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        },
+        {
+          "name": "Investment Value",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Rarity Mentions",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        }
+      ]
+    },
+    "raw_calculation": {
+      "raw_score": 0.0,
+      "calculation_inputs": {
+        "num_runway": 0,
+        "num_celebs": 0,
+        "num_pos_keywords": 0,
+        "num_neg_keywords": 0,
+        "num_collect_notes": 0,
+        "has_investment_mention": 0,
+        "has_rarity_mention": 0
+      }
+    }
+  },
+  {
+    "designer": "Louis",
+    "model": "Vuitton Looping Mini handbag",
+    "trend_score": 0.45,
+    "trend_category": "Medium",
+    "perplexity_data": {
+      "runway_mentions": [
+        "The Louis Vuitton Looping bag appeared during the Louis Vuitton Womenswear Fall/Winter 2023-2024 Paris Fashion Week show."
+      ],
+      "celebrity_sightings": [
+        "Multiple celebrities (Louis Vuitton Womanwear Fall Winter 2023-2024 Paris Fashion Week show)"
+      ],
+      "positive_keywords": [],
+      "negative_keywords": [],
+      "collectibility_notes": [],
+      "summary": "The Louis Vuitton Looping Mini handbag received recent runway exposure at the Fall/Winter 2023-2024 Paris Fashion Week, where several celebrities were seen with the style. However, there is no recent online discussion or user feedback specifically highlighting the bag's review sentiment, collectibility, or negative/positive aspects in the past 6 months.",
+      "sources": [
+        "https://www.tiktok.com/discover/celebrities-louis-vuitton-looping",
+        "https://us.louisvuitton.com/eng-us/magazine/articles/women-fall-winter-2023-show-paris"
+      ],
+      "trend_factors": [
+        {
+          "name": "Runway Presence",
+          "score": 0.1,
+          "count": 1,
+          "weight": 0.1
+        },
+        {
+          "name": "Celebrity Endorsement",
+          "score": 0.2,
+          "count": 1,
+          "weight": 0.2
+        },
+        {
+          "name": "Positive Reviews",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.05
+        },
+        {
+          "name": "Negative Reviews",
+          "score": -0.0,
+          "count": 0,
+          "weight": -0.03
+        },
+        {
+          "name": "Collectibility Notes",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        },
+        {
+          "name": "Investment Value",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Rarity Mentions",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        }
+      ]
+    },
+    "raw_calculation": {
+      "raw_score": 0.3,
+      "calculation_inputs": {
+        "num_runway": 1,
+        "num_celebs": 1,
+        "num_pos_keywords": 0,
+        "num_neg_keywords": 0,
+        "num_collect_notes": 0,
+        "has_investment_mention": 0,
+        "has_rarity_mention": 0
+      }
+    }
+  },
+  {
+    "designer": "Louis Vuitton",
+    "model": "Looping Mini",
+    "trend_score": 0.426,
+    "trend_category": "Low",
+    "perplexity_data": {
+      "runway_mentions": [],
+      "celebrity_sightings": [],
+      "positive_keywords": [
+        "stunner",
+        "special",
+        "love",
+        "beautiful"
+      ],
+      "negative_keywords": [],
+      "collectibility_notes": [],
+      "summary": "Recent discussions and reviews highlight strong positive sentiment for the Louis Vuitton Looping Mini, with users praising its stunning design and unique appeal. However, there have been no notable mentions of the bag in major fashion shows, runway events, or sightings with high-profile celebrities in the past 6 months. There is also a lack of commentary on its collectibility or investment potential in recent sources.",
+      "sources": [
+        "https://www.youtube.com/watch?v=Nz8GRDxXaVA",
+        "https://us.louisvuitton.com/eng-us/products/looping-monogram-nvprod5960042v/M12939",
+        "https://www.tiktok.com/discover/louis-vuitton-looping-purse"
+      ],
+      "trend_factors": [
+        {
+          "name": "Runway Presence",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.1
+        },
+        {
+          "name": "Celebrity Endorsement",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Positive Reviews",
+          "score": 0.2,
+          "count": 4,
+          "weight": 0.05
+        },
+        {
+          "name": "Negative Reviews",
+          "score": -0.0,
+          "count": 0,
+          "weight": -0.03
+        },
+        {
+          "name": "Collectibility Notes",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        },
+        {
+          "name": "Investment Value",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Rarity Mentions",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        }
+      ]
+    },
+    "raw_calculation": {
+      "raw_score": 0.2,
+      "calculation_inputs": {
+        "num_runway": 0,
+        "num_celebs": 0,
+        "num_pos_keywords": 4,
+        "num_neg_keywords": 0,
+        "num_collect_notes": 0,
+        "has_investment_mention": 0,
+        "has_rarity_mention": 0
+      }
+    }
+  },
+  {
+    "designer": "Gucci",
+    "model": "Horsebit 1955 mini shoulder bag",
+    "trend_score": 0.547,
+    "trend_category": "Medium",
+    "perplexity_data": {
+      "runway_mentions": [
+        "The Fall/Winter 2025 runway introduced the Soft Horsebit 1955, a new variation inspired by the original 1955 Horsebit bag, highlighting its presence in recent shows.[5]",
+        "Gucci's Cruise 2025 Fashion Show presented items from the Horsebit 1955 collection, reaffirming the bag's runway relevance in the latest Gucci presentations.[2]"
+      ],
+      "celebrity_sightings": [],
+      "positive_keywords": [
+        "versatile straps",
+        "contemporary twist",
+        "iconic horsebit detail",
+        "fits essentials",
+        "elegance"
+      ],
+      "negative_keywords": [
+        "rigidity (compared to new Softbit update)",
+        "May lose shape if overfilled"
+      ],
+      "collectibility_notes": [
+        "The Horsebit 1955 line is described as a 'classic' and 'iconic,' with recent runway updates and reinterpretations signaling continued collectibility and relevance within Gucci's heritage.[5]",
+        "No mention of discontinuation; instead, evolution into new silhouettes (e.g., Softbit) suggests ongoing demand and collector interest.[5]"
+      ],
+      "summary": "The Gucci Horsebit 1955 mini shoulder bag remains a staple in Gucci's evolving collections, featured on recent runways with new adaptations and highlighted as a classic icon. While no recent high-profile celebrity sightings were found, positive feedback centers on its versatility and timeless appeal. Recent runways demonstrate Gucci's commitment to reimagining the Horsebit line, enhancing its ongoing desirability and collectibility in the luxury market.",
+      "sources": [
+        "https://www.gucci.com/us/en/ms/cruise-2025-fashion-show/",
+        "https://mega-asia.com/fashion/the-gucci-horsebit-is-the-emblem-that-keeps-reinventing-itself/",
+        "https://www.gucci.com/us/en/pr/women/handbags/shoulder-bags-for-women/gucci-horsebit-1955-mini-shoulder-bag-p-65857418YSG1060"
+      ],
+      "trend_factors": [
+        {
+          "name": "Runway Presence",
+          "score": 0.2,
+          "count": 2,
+          "weight": 0.1
+        },
+        {
+          "name": "Celebrity Endorsement",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Positive Reviews",
+          "score": 0.25,
+          "count": 5,
+          "weight": 0.05
+        },
+        {
+          "name": "Negative Reviews",
+          "score": -0.06,
+          "count": 2,
+          "weight": -0.03
+        },
+        {
+          "name": "Collectibility Notes",
+          "score": 0.3,
+          "count": 2,
+          "weight": 0.15
+        },
+        {
+          "name": "Investment Value",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Rarity Mentions",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        }
+      ]
+    },
+    "raw_calculation": {
+      "raw_score": 0.69,
+      "calculation_inputs": {
+        "num_runway": 2,
+        "num_celebs": 0,
+        "num_pos_keywords": 5,
+        "num_neg_keywords": 2,
+        "num_collect_notes": 2,
+        "has_investment_mention": 0,
+        "has_rarity_mention": 0
+      }
+    }
+  },
+  {
+    "designer": "Gucci",
+    "model": "Horsebit 1955",
+    "trend_score": 0.574,
+    "trend_category": "Medium",
+    "perplexity_data": {
+      "runway_mentions": [],
+      "celebrity_sightings": [
+        "Halle Bailey in the Gucci Horsebit 1955 bag campaign",
+        "Hanni from NewJeans in the Gucci Horsebit 1955 bag campaign",
+        "Julia Garner in the Gucci Horsebit 1955 bag campaign"
+      ],
+      "positive_keywords": [
+        "versatile",
+        "iconic",
+        "craftsmanship",
+        "innovation"
+      ],
+      "negative_keywords": [],
+      "collectibility_notes": [],
+      "summary": "The Gucci Horsebit 1955 handbag is currently trending with a strong focus on its classic design, versatility, and heritage. It has been featured in a prominent campaign with notable celebrities, highlighting its enduring appeal and style.",
+      "sources": [
+        "https://models.com/work/gucci-gucci-horsebit-1955-bag-2023-campaign",
+        "https://www.fashiongonerogue.com/gucci-horsebit-1955-bag-2023-campaign/",
+        "https://www.femalemag.com.sg/gallery/fashion/gucci-spring-summer-2023-collection-twinsburg-bag-clothes-accessories/"
+      ],
+      "trend_factors": [
+        {
+          "name": "Runway Presence",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.1
+        },
+        {
+          "name": "Celebrity Endorsement",
+          "score": 0.6000000000000001,
+          "count": 3,
+          "weight": 0.2
+        },
+        {
+          "name": "Positive Reviews",
+          "score": 0.2,
+          "count": 4,
+          "weight": 0.05
+        },
+        {
+          "name": "Negative Reviews",
+          "score": -0.0,
+          "count": 0,
+          "weight": -0.03
+        },
+        {
+          "name": "Collectibility Notes",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        },
+        {
+          "name": "Investment Value",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Rarity Mentions",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        }
+      ]
+    },
+    "raw_calculation": {
+      "raw_score": 0.8,
+      "calculation_inputs": {
+        "num_runway": 0,
+        "num_celebs": 3,
+        "num_pos_keywords": 4,
+        "num_neg_keywords": 0,
+        "num_collect_notes": 0,
+        "has_investment_mention": 0,
+        "has_rarity_mention": 0
+      }
+    }
+  },
+  {
+    "designer": "Gucci",
+    "model": "Azalea Calfskin Web Mini Horsebit 1955 Shoulder Bag",
+    "trend_score": 0.634,
+    "trend_category": "Medium",
+    "perplexity_data": {
+      "runway_mentions": [],
+      "celebrity_sightings": [],
+      "positive_keywords": [
+        "timeless",
+        "heritage design",
+        "modern functionality",
+        "versatility",
+        "quality craftsmanship",
+        "sophistication",
+        "elegance",
+        "investment piece"
+      ],
+      "negative_keywords": [],
+      "collectibility_notes": [
+        "This bag has proven itself as a timeless piece that can adapt to various fashion movements while remaining true to its origins.",
+        "It captures the essence of what luxury fashion should be\u2014an investment in quality craftsmanship that transcends fleeting trends.",
+        "Exceptional addition that promises both style and substance for collectors."
+      ],
+      "summary": "The Gucci Azalea Calfskin Web Mini Horsebit 1955 Shoulder Bag continues to be celebrated for its timeless, heritage-inspired design and versatility. While there are no recent runway or celebrity sightings, online discussions frame it as a collectible, investment-worthy piece with enduring appeal.",
+      "sources": [
+        "https://www.fabasianlifestyle.com/gucci-horsebit-1955-mini-shoulder-bag-a-timeless-accessory/",
+        "https://www.fashionphile.com/p/gucci-azalea-calfskin-web-mini-horsebit-1955-shoulder-bag-black-1138540",
+        "https://www.fashionphile.com/p/gucci-azalea-calfskin-web-monochrome-mini-horsebit-1955-chain-shoulder-bag-blue-1532234"
+      ],
+      "trend_factors": [
+        {
+          "name": "Runway Presence",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.1
+        },
+        {
+          "name": "Celebrity Endorsement",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Positive Reviews",
+          "score": 0.4,
+          "count": 8,
+          "weight": 0.05
+        },
+        {
+          "name": "Negative Reviews",
+          "score": -0.0,
+          "count": 0,
+          "weight": -0.03
+        },
+        {
+          "name": "Collectibility Notes",
+          "score": 0.44999999999999996,
+          "count": 3,
+          "weight": 0.15
+        },
+        {
+          "name": "Investment Value",
+          "score": 0.2,
+          "count": 1,
+          "weight": 0.2
+        },
+        {
+          "name": "Rarity Mentions",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        }
+      ]
+    },
+    "raw_calculation": {
+      "raw_score": 1.05,
+      "calculation_inputs": {
+        "num_runway": 0,
+        "num_celebs": 0,
+        "num_pos_keywords": 8,
+        "num_neg_keywords": 0,
+        "num_collect_notes": 3,
+        "has_investment_mention": 1,
+        "has_rarity_mention": 0
+      }
+    }
+  },
+  {
+    "designer": "Gucci",
+    "model": "Azalea Calfskin Web Mini Horsebit 1955",
+    "trend_score": 0.56,
+    "trend_category": "Medium",
+    "perplexity_data": {
+      "runway_mentions": [],
+      "celebrity_sightings": [],
+      "positive_keywords": [
+        "quality and durability",
+        "phenomenal durability",
+        "timeless elegance",
+        "classic appearance",
+        "minimalistic look",
+        "well-made",
+        "structured"
+      ],
+      "negative_keywords": [
+        "too pricey",
+        "least exciting iteration (white version)"
+      ],
+      "collectibility_notes": [
+        "Seasonally limited edition versions are released as well.",
+        "Move toward more archival pieces being used as inspiration for designs has really become commonplace in the fashion world."
+      ],
+      "summary": "Recent online reviews emphasize the Gucci Azalea Calfskin Web Mini Horsebit 1955's durability, quality, and timeless design, with specific praise for its structured silhouette and classic appeal. However, there are some remarks about its high price and less excitement around certain colorways. There are no recent mentions of celebrity sightings or runway appearances, but the presence of limited edition variants and its archival inspiration support modest collectibility interest.",
+      "sources": [
+        "https://unwrapped.fashion/bags/gucci-horsebit-1955-bag-review-worth-it/",
+        "https://www.purseblog.com/purseonals/review-gucci-horsebit-1955/",
+        "https://www.youtube.com/watch?v=0S0vBuNZiQw"
+      ],
+      "trend_factors": [
+        {
+          "name": "Runway Presence",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.1
+        },
+        {
+          "name": "Celebrity Endorsement",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Positive Reviews",
+          "score": 0.35000000000000003,
+          "count": 7,
+          "weight": 0.05
+        },
+        {
+          "name": "Negative Reviews",
+          "score": -0.06,
+          "count": 2,
+          "weight": -0.03
+        },
+        {
+          "name": "Collectibility Notes",
+          "score": 0.3,
+          "count": 2,
+          "weight": 0.15
+        },
+        {
+          "name": "Investment Value",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Rarity Mentions",
+          "score": 0.15,
+          "count": 1,
+          "weight": 0.15
+        }
+      ]
+    },
+    "raw_calculation": {
+      "raw_score": 0.74,
+      "calculation_inputs": {
+        "num_runway": 0,
+        "num_celebs": 0,
+        "num_pos_keywords": 7,
+        "num_neg_keywords": 2,
+        "num_collect_notes": 2,
+        "has_investment_mention": 0,
+        "has_rarity_mention": 1
+      }
+    }
+  },
+  {
+    "designer": "Louis Vuitton",
+    "model": "Epi Twist",
+    "trend_score": 0.525,
+    "trend_category": "Medium",
+    "perplexity_data": {
+      "runway_mentions": [],
+      "celebrity_sightings": [],
+      "positive_keywords": [
+        "iconic LV Twist lock",
+        "fashionable day-to-evening companion",
+        "roomy design",
+        "cleverly designed 'wave' base",
+        "versatile carry options",
+        "elegant colors"
+      ],
+      "negative_keywords": [],
+      "collectibility_notes": [
+        "A New Classic of the House, the Twist bag was introduced at the 2015 Cruise show.",
+        "Available in new seasonal colors, maintaining its presence in the current Louis Vuitton collection."
+      ],
+      "summary": "The Louis Vuitton Epi Twist remains part of the brand's ongoing collection, with positive feedback centered on its iconic design, versatility, and new color options. However, there are no notable mentions of recent runway appearances or celebrity sightings, and minimal review criticism is visible in current sources.",
+      "sources": [
+        "https://us.louisvuitton.com/eng-us/products/twist-mm-epi-nvprod1000317v/M21120",
+        "https://us.louisvuitton.com/eng-us/products/twist-mm-epi-nvprod920001v/M21113",
+        "https://us.louisvuitton.com/eng-us/products/twist-pm-epi-009188/M21133"
+      ],
+      "trend_factors": [
+        {
+          "name": "Runway Presence",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.1
+        },
+        {
+          "name": "Celebrity Endorsement",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Positive Reviews",
+          "score": 0.30000000000000004,
+          "count": 6,
+          "weight": 0.05
+        },
+        {
+          "name": "Negative Reviews",
+          "score": -0.0,
+          "count": 0,
+          "weight": -0.03
+        },
+        {
+          "name": "Collectibility Notes",
+          "score": 0.3,
+          "count": 2,
+          "weight": 0.15
+        },
+        {
+          "name": "Investment Value",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Rarity Mentions",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        }
+      ]
+    },
+    "raw_calculation": {
+      "raw_score": 0.6,
+      "calculation_inputs": {
+        "num_runway": 0,
+        "num_celebs": 0,
+        "num_pos_keywords": 6,
+        "num_neg_keywords": 0,
+        "num_collect_notes": 2,
+        "has_investment_mention": 0,
+        "has_rarity_mention": 0
+      }
+    }
+  },
+  {
+    "designer": "Louis",
+    "model": "Vuitton Neverfull MM Damier Ebene 2023",
+    "trend_score": 0.404,
+    "trend_category": "Low",
+    "perplexity_data": {
+      "runway_mentions": [],
+      "celebrity_sightings": [],
+      "positive_keywords": [
+        "structured shape",
+        "iconic style",
+        "care-free",
+        "subtle but recognizable"
+      ],
+      "negative_keywords": [
+        "gets heavy",
+        "thin straps",
+        "not ideal for travel with a lot of items"
+      ],
+      "collectibility_notes": [],
+      "summary": "N/A",
+      "sources": [
+        "https://thefeatherednester.com/louis-vuitton-neverfull/",
+        "https://www.strawberrychicblog.com/louis-vuitton-neverfull-mm-review/",
+        "https://www.youtube.com/watch?v=ZQ0hqwdnjv8"
+      ],
+      "trend_factors": [
+        {
+          "name": "Runway Presence",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.1
+        },
+        {
+          "name": "Celebrity Endorsement",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Positive Reviews",
+          "score": 0.2,
+          "count": 4,
+          "weight": 0.05
+        },
+        {
+          "name": "Negative Reviews",
+          "score": -0.09,
+          "count": 3,
+          "weight": -0.03
+        },
+        {
+          "name": "Collectibility Notes",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        },
+        {
+          "name": "Investment Value",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Rarity Mentions",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        }
+      ]
+    },
+    "raw_calculation": {
+      "raw_score": 0.11,
+      "calculation_inputs": {
+        "num_runway": 0,
+        "num_celebs": 0,
+        "num_pos_keywords": 4,
+        "num_neg_keywords": 3,
+        "num_collect_notes": 0,
+        "has_investment_mention": 0,
+        "has_rarity_mention": 0
+      }
+    }
+  },
+  {
+    "designer": "Chanel",
+    "model": "Classic Flap Bag",
+    "trend_score": 0.709,
+    "trend_category": "High",
+    "perplexity_data": {
+      "runway_mentions": [
+        "Appeared in the CHANEL Fall-Winter 2025/26 Ready-to-Wear Show at the Grand Palais in Paris",
+        "Single flaps with adjustable chain strap were brought back in the Spring-Summer 2025 collection"
+      ],
+      "celebrity_sightings": [
+        "Naomi Campbell (Fall-Winter 2025/26 Ready-to-Wear Show)",
+        "Dakota Fanning (Fall-Winter 2025/26 Ready-to-Wear Show)",
+        "Wang Yibo (Fall-Winter 2025/26 Ready-to-Wear Show)",
+        "Caroline de Maigret (Fall-Winter 2025/26 Ready-to-Wear Show)"
+      ],
+      "positive_keywords": [
+        "stunning",
+        "beautiful",
+        "classic"
+      ],
+      "negative_keywords": [
+        "heavy",
+        "not as structured as it looks online"
+      ],
+      "collectibility_notes": [
+        "Single flap versions with adjustable chain straps have been brought back",
+        "New seasonal colors including navy blue and light gray are available"
+      ],
+      "summary": "The Chanel Classic Flap Bag remains prominent in Chanel's 2025 collections with the reintroduction of single flap versions and new seasonal colors. While maintaining its classic appeal, some variations receive mixed reviews regarding structure and weight. The bag continues to appear at high-profile fashion events with numerous celebrities present at recent showcases.",
+      "sources": [
+        "https://www.chanel.com/us/fashion/collection/fall-winter-2025-26/",
+        "https://www.chanel.com/us/fashion/collection/spring-summer-2025/",
+        "https://www.youtube.com/watch?v=1Bp2SZnif10"
+      ],
+      "trend_factors": [
+        {
+          "name": "Runway Presence",
+          "score": 0.2,
+          "count": 2,
+          "weight": 0.1
+        },
+        {
+          "name": "Celebrity Endorsement",
+          "score": 0.8,
+          "count": 4,
+          "weight": 0.2
+        },
+        {
+          "name": "Positive Reviews",
+          "score": 0.15000000000000002,
+          "count": 3,
+          "weight": 0.05
+        },
+        {
+          "name": "Negative Reviews",
+          "score": -0.06,
+          "count": 2,
+          "weight": -0.03
+        },
+        {
+          "name": "Collectibility Notes",
+          "score": 0.3,
+          "count": 2,
+          "weight": 0.15
+        },
+        {
+          "name": "Investment Value",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Rarity Mentions",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        }
+      ]
+    },
+    "raw_calculation": {
+      "raw_score": 1.39,
+      "calculation_inputs": {
+        "num_runway": 2,
+        "num_celebs": 4,
+        "num_pos_keywords": 3,
+        "num_neg_keywords": 2,
+        "num_collect_notes": 2,
+        "has_investment_mention": 0,
+        "has_rarity_mention": 0
+      }
+    }
+  },
+  {
+    "designer": "Chanel",
+    "model": "Classic Flap Bag Caviar Leather Black Gold Hardware",
+    "trend_score": 0.475,
+    "trend_category": "Medium",
+    "perplexity_data": {
+      "runway_mentions": [
+        "Spring-Summer 2025 Pre-Collection featuring various flap bags"
+      ],
+      "celebrity_sightings": [],
+      "positive_keywords": [],
+      "negative_keywords": [],
+      "collectibility_notes": [
+        "Available for immediate sale at Sotheby's (2023 model)",
+        "Chanel offers 'CHANEL & moi' services designed to repair and restore pieces to preserve their value"
+      ],
+      "summary": "The Chanel Classic Flap Bag in Black Quilted Caviar with Gold Hardware continues to be part of Chanel's 'The Emblematics' collection, appearing in the Spring-Summer 2025 Pre-Collection lineup. Its presence in Sotheby's marketplace and Chanel's emphasis on preservation services suggests ongoing collectibility value, though specific trend indicators are limited in the available data.",
+      "sources": [
+        "https://www.chanel.com/us/fashion/p/A01113Y01864C3906/small-classic-handbag-grained-calfskin-gold-tone-metal/",
+        "https://www.sothebys.com/en/buy/_chanel-black-quilted-caviar-small-classic-double-flap-bag-gold-hardware-2023",
+        "https://www.chanel.com/us/fashion/handbags/c/1x1x1x1/flap-bags/"
+      ],
+      "trend_factors": [
+        {
+          "name": "Runway Presence",
+          "score": 0.1,
+          "count": 1,
+          "weight": 0.1
+        },
+        {
+          "name": "Celebrity Endorsement",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Positive Reviews",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.05
+        },
+        {
+          "name": "Negative Reviews",
+          "score": -0.0,
+          "count": 0,
+          "weight": -0.03
+        },
+        {
+          "name": "Collectibility Notes",
+          "score": 0.3,
+          "count": 2,
+          "weight": 0.15
+        },
+        {
+          "name": "Investment Value",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Rarity Mentions",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        }
+      ]
+    },
+    "raw_calculation": {
+      "raw_score": 0.4,
+      "calculation_inputs": {
+        "num_runway": 1,
+        "num_celebs": 0,
+        "num_pos_keywords": 0,
+        "num_neg_keywords": 0,
+        "num_collect_notes": 2,
+        "has_investment_mention": 0,
+        "has_rarity_mention": 0
+      }
+    }
+  },
+  {
+    "designer": "Chanel",
+    "model": "Classic Flap Bag Black Caviar Gold Hardware",
+    "trend_score": 0.515,
+    "trend_category": "Medium",
+    "perplexity_data": {
+      "runway_mentions": [
+        "Featured in CHANEL Cruise 2023/24 Fashion Show",
+        "Part of CHANEL Spring-Summer 2025 Pre-Collection"
+      ],
+      "celebrity_sightings": [],
+      "positive_keywords": [],
+      "negative_keywords": [
+        "Light scratching to hardware",
+        "Light markings to underside of flap",
+        "Light indentations to top of double flap"
+      ],
+      "collectibility_notes": [
+        "Available through Sotheby's marketplace indicating resale value",
+        "Described as part of 'The Emblematics collection' by Chanel",
+        "CHANEL offers 'CHANEL & moi' services to preserve and restore bags, enhancing long-term ownership value"
+      ],
+      "summary": "The Chanel Classic Flap Bag in Black Caviar with Gold Hardware remains a key piece in Chanel's current collections, appearing in recent runway shows. It has established collectibility value as evidenced by its presence in luxury resale markets like Sotheby's and Chanel's own investment in preservation services for long-term ownership.",
+      "sources": [
+        "https://www.chanel.com/us/fashion/handbags/c/1x1x1x1/flap-bags/",
+        "https://www.youtube.com/watch?v=ijCpXacy-3Q",
+        "https://www.sothebys.com/en/buy/_chanel-black-quilted-caviar-medium-classic-double-flap-bag-pale-gold-hardware-2023"
+      ],
+      "trend_factors": [
+        {
+          "name": "Runway Presence",
+          "score": 0.2,
+          "count": 2,
+          "weight": 0.1
+        },
+        {
+          "name": "Celebrity Endorsement",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Positive Reviews",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.05
+        },
+        {
+          "name": "Negative Reviews",
+          "score": -0.09,
+          "count": 3,
+          "weight": -0.03
+        },
+        {
+          "name": "Collectibility Notes",
+          "score": 0.44999999999999996,
+          "count": 3,
+          "weight": 0.15
+        },
+        {
+          "name": "Investment Value",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Rarity Mentions",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        }
+      ]
+    },
+    "raw_calculation": {
+      "raw_score": 0.56,
+      "calculation_inputs": {
+        "num_runway": 2,
+        "num_celebs": 0,
+        "num_pos_keywords": 0,
+        "num_neg_keywords": 3,
+        "num_collect_notes": 3,
+        "has_investment_mention": 0,
+        "has_rarity_mention": 0
+      }
+    }
+  },
+  {
+    "designer": "Louis",
+    "model": "Vuitton Neverfull MM handbag",
+    "trend_score": 0.622,
+    "trend_category": "Medium",
+    "perplexity_data": {
+      "runway_mentions": [
+        "Several new versions of the Neverfull MM will be launching in 2024, including 'Epi Heritage Colors', 'Inside Out', 'Upside Down', and 'Colormania'",
+        "The Inside Out Neverfull was featured in a campaign with actress Sophie Turner"
+      ],
+      "celebrity_sightings": [
+        "Sophie Turner (Louis Vuitton's 2024 Neverfull Inside Out campaign)"
+      ],
+      "positive_keywords": [
+        "versatile",
+        "beloved",
+        "iconic",
+        "workhorse",
+        "gamechanger",
+        "two-for-one experience"
+      ],
+      "negative_keywords": [],
+      "collectibility_notes": [
+        "New versions of the Neverfull MM are being released in September and November 2024",
+        "The Inside Out version gives a 'two-for-one experience that you hardly find in the luxury space'"
+      ],
+      "summary": "The Louis Vuitton Neverfull MM remains a highly relevant and evolving bag, with multiple new variations being released in late 2024. The Inside Out version, featured in a campaign with Sophie Turner, is being particularly highlighted for its versatility and dual functionality, positioning it as an innovative twist on the classic design.",
+      "sources": [
+        "https://www.youtube.com/watch?v=MbnNf-yipmM",
+        "https://www.out.com/fashion/louis-vuitton-inside-out-neverfull",
+        "https://www.youtube.com/watch?v=Duyi9NUBoq8"
+      ],
+      "trend_factors": [
+        {
+          "name": "Runway Presence",
+          "score": 0.2,
+          "count": 2,
+          "weight": 0.1
+        },
+        {
+          "name": "Celebrity Endorsement",
+          "score": 0.2,
+          "count": 1,
+          "weight": 0.2
+        },
+        {
+          "name": "Positive Reviews",
+          "score": 0.30000000000000004,
+          "count": 6,
+          "weight": 0.05
+        },
+        {
+          "name": "Negative Reviews",
+          "score": -0.0,
+          "count": 0,
+          "weight": -0.03
+        },
+        {
+          "name": "Collectibility Notes",
+          "score": 0.3,
+          "count": 2,
+          "weight": 0.15
+        },
+        {
+          "name": "Investment Value",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Rarity Mentions",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        }
+      ]
+    },
+    "raw_calculation": {
+      "raw_score": 1.0,
+      "calculation_inputs": {
+        "num_runway": 2,
+        "num_celebs": 1,
+        "num_pos_keywords": 6,
+        "num_neg_keywords": 0,
+        "num_collect_notes": 2,
+        "has_investment_mention": 0,
+        "has_rarity_mention": 0
+      }
+    }
+  },
+  {
+    "designer": "Louis",
+    "model": "Vuitton Neverfull MM 2023 trends",
+    "trend_score": 0.45,
+    "trend_category": "Medium",
+    "perplexity_data": {
+      "runway_mentions": [
+        "Sophie Turner was associated with Louis Vuitton Neverfull GM in a 2024 TikTok video from Louis Vuitton's official account"
+      ],
+      "celebrity_sightings": [
+        "Sophie Turner (Louis Vuitton Fashion Show)"
+      ],
+      "positive_keywords": [],
+      "negative_keywords": [],
+      "collectibility_notes": [],
+      "summary": "Limited information is available specifically about the Louis Vuitton Neverfull MM 2023 trends from the last 6 months. The only relevant mention is Sophie Turner's association with the Louis Vuitton Neverfull GM (not specifically the MM) in a 2024 TikTok video from Louis Vuitton's official account, likely in connection with a fashion show appearance.",
+      "sources": [],
+      "trend_factors": [
+        {
+          "name": "Runway Presence",
+          "score": 0.1,
+          "count": 1,
+          "weight": 0.1
+        },
+        {
+          "name": "Celebrity Endorsement",
+          "score": 0.2,
+          "count": 1,
+          "weight": 0.2
+        },
+        {
+          "name": "Positive Reviews",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.05
+        },
+        {
+          "name": "Negative Reviews",
+          "score": -0.0,
+          "count": 0,
+          "weight": -0.03
+        },
+        {
+          "name": "Collectibility Notes",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        },
+        {
+          "name": "Investment Value",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Rarity Mentions",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        }
+      ]
+    },
+    "raw_calculation": {
+      "raw_score": 0.3,
+      "calculation_inputs": {
+        "num_runway": 1,
+        "num_celebs": 1,
+        "num_pos_keywords": 0,
+        "num_neg_keywords": 0,
+        "num_collect_notes": 0,
+        "has_investment_mention": 0,
+        "has_rarity_mention": 0
+      }
+    }
+  },
+  {
+    "designer": "Louis",
+    "model": "Vuitton Epi Twist MM Shoulder Bag",
+    "trend_score": 0.587,
+    "trend_category": "Medium",
+    "perplexity_data": {
+      "runway_mentions": [
+        "Introduced at the 2015 Cruise show and considered a New Classic of the House"
+      ],
+      "celebrity_sightings": [],
+      "positive_keywords": [
+        "iconic",
+        "emblematic",
+        "sculptural signature",
+        "unexpectedly roomy",
+        "cleverly designed",
+        "beautifully made",
+        "fashionable day-to-evening companion",
+        "ideal accessory for evening looks",
+        "contemporary elegance"
+      ],
+      "negative_keywords": [],
+      "collectibility_notes": [
+        "Now-iconic LV Twist lock",
+        "New Classic of the House"
+      ],
+      "summary": "The Louis Vuitton Epi Twist MM Shoulder Bag remains a significant piece in the brand's collection, described as a 'New Classic' with contemporary elegance. While specific recent celebrity sightings aren't mentioned, its iconic status, versatile design for both day and evening wear, and signature LV Twist lock suggest enduring appeal and collectibility.",
+      "sources": [
+        "https://us.louisvuitton.com/eng-us/products/twist-mm-epi-nvprod1000317v/M21120",
+        "https://us.louisvuitton.com/eng-us/products/twist-mm-epi-nvprod920001v/M21112",
+        "https://eu.louisvuitton.com/eng-e1/women/handbags/lv-icons/twist/_/N-td4mq4v-ak6wyyhe"
+      ],
+      "trend_factors": [
+        {
+          "name": "Runway Presence",
+          "score": 0.1,
+          "count": 1,
+          "weight": 0.1
+        },
+        {
+          "name": "Celebrity Endorsement",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Positive Reviews",
+          "score": 0.45,
+          "count": 9,
+          "weight": 0.05
+        },
+        {
+          "name": "Negative Reviews",
+          "score": -0.0,
+          "count": 0,
+          "weight": -0.03
+        },
+        {
+          "name": "Collectibility Notes",
+          "score": 0.3,
+          "count": 2,
+          "weight": 0.15
+        },
+        {
+          "name": "Investment Value",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Rarity Mentions",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        }
+      ]
+    },
+    "raw_calculation": {
+      "raw_score": 0.85,
+      "calculation_inputs": {
+        "num_runway": 1,
+        "num_celebs": 0,
+        "num_pos_keywords": 9,
+        "num_neg_keywords": 0,
+        "num_collect_notes": 2,
+        "has_investment_mention": 0,
+        "has_rarity_mention": 0
+      }
+    }
+  },
+  {
+    "designer": "Louis",
+    "model": "Vuitton Epi Twist Shoulder Bag MM",
+    "trend_score": 0.463,
+    "trend_category": "Medium",
+    "perplexity_data": {
+      "runway_mentions": [
+        "Featured in Louis Vuitton Women's Fall-Winter 2025 Collection presented by Nicolas Ghesqui\u00e8re in Paris on March 10, 2025"
+      ],
+      "celebrity_sightings": [],
+      "positive_keywords": [
+        "iconic",
+        "elegant",
+        "versatile",
+        "sculptural",
+        "ideal"
+      ],
+      "negative_keywords": [],
+      "collectibility_notes": [],
+      "summary": "The Louis Vuitton Epi Twist Shoulder Bag MM appears to be part of the brand's current lineup, featured in their recent Fall-Winter 2025 Collection. While specific details about its trend status are limited, the bag is described using positive terms like 'iconic' and 'elegant' in product descriptions, suggesting it maintains relevance in Louis Vuitton's current offerings.",
+      "sources": [
+        "https://us.louisvuitton.com/eng-us/products/twist-mm-epi-nvprod1000317v/M21120",
+        "https://www.youtube.com/watch?v=y6NGVqahOOE",
+        "https://ap.louisvuitton.com/eng-sg/products/twist-mm-epi-nvprod5190080v/M24043"
+      ],
+      "trend_factors": [
+        {
+          "name": "Runway Presence",
+          "score": 0.1,
+          "count": 1,
+          "weight": 0.1
+        },
+        {
+          "name": "Celebrity Endorsement",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Positive Reviews",
+          "score": 0.25,
+          "count": 5,
+          "weight": 0.05
+        },
+        {
+          "name": "Negative Reviews",
+          "score": -0.0,
+          "count": 0,
+          "weight": -0.03
+        },
+        {
+          "name": "Collectibility Notes",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        },
+        {
+          "name": "Investment Value",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Rarity Mentions",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        }
+      ]
+    },
+    "raw_calculation": {
+      "raw_score": 0.35,
+      "calculation_inputs": {
+        "num_runway": 1,
+        "num_celebs": 0,
+        "num_pos_keywords": 5,
+        "num_neg_keywords": 0,
+        "num_collect_notes": 0,
+        "has_investment_mention": 0,
+        "has_rarity_mention": 0
+      }
+    }
+  },
+  {
+    "designer": "Louis",
+    "model": "Vuitton Neverfull",
+    "trend_score": 0.378,
+    "trend_category": "Low",
+    "perplexity_data": {
+      "runway_mentions": [],
+      "celebrity_sightings": [],
+      "positive_keywords": [],
+      "negative_keywords": [],
+      "collectibility_notes": [],
+      "summary": "N/A",
+      "sources": [
+        "https://www.youtube.com/watch?v=y6NGVqahOOE",
+        "https://eu.louisvuitton.com/eng-e1/magazine/articles/women-spring-summer-2025-show",
+        "https://me.louisvuitton.com/eng-ae/magazine/articles/women-fall-winter-2024-show"
+      ],
+      "trend_factors": [
+        {
+          "name": "Runway Presence",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.1
+        },
+        {
+          "name": "Celebrity Endorsement",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Positive Reviews",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.05
+        },
+        {
+          "name": "Negative Reviews",
+          "score": -0.0,
+          "count": 0,
+          "weight": -0.03
+        },
+        {
+          "name": "Collectibility Notes",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        },
+        {
+          "name": "Investment Value",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Rarity Mentions",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.15
+        }
+      ]
+    },
+    "raw_calculation": {
+      "raw_score": 0.0,
+      "calculation_inputs": {
+        "num_runway": 0,
+        "num_celebs": 0,
+        "num_pos_keywords": 0,
+        "num_neg_keywords": 0,
+        "num_collect_notes": 0,
+        "has_investment_mention": 0,
+        "has_rarity_mention": 0
+      }
+    }
+  },
+  {
+    "designer": "Louis",
+    "model": "Vuitton Neverfull Damier Ebene MM",
+    "trend_score": 0.527,
+    "trend_category": "Medium",
+    "perplexity_data": {
+      "runway_mentions": [],
+      "celebrity_sightings": [],
+      "positive_keywords": [
+        "very popular",
+        "most well-known bags",
+        "first starter bag",
+        "iconic",
+        "versatile"
+      ],
+      "negative_keywords": [
+        "controversial",
+        "wait list required",
+        "unable to purchase online"
+      ],
+      "collectibility_notes": [
+        "Damier Ebene, Azur, and Monogram Neverfull bags are no longer available to purchase directly online; buyers need to join a waitlist or contact an associate, indicating higher collectibility or tightened supply.",
+        "The Neverfull is described as one of Louis Vuitton's most famous and sought-after bags, driving ongoing demand even as access becomes more limited."
+      ],
+      "summary": "There are no indications of recent runway or celebrity sightings for the Louis Vuitton Neverfull Damier Ebene MM within the last six months, but the bag remains highly popular and sought after. Recent reviews highlight its iconic and versatile reputation, though note growing frustration with limited direct availability and required waitlists\u2014a factor contributing to its perceived collectibility.",
+      "sources": [
+        "https://www.youtube.com/watch?v=ZQ0hqwdnjv8",
+        "https://www.refinery29.com/en-us/2023/06/11442758/louis-vuitton-neverfull-handbag-waitlist-explained"
+      ],
+      "trend_factors": [
+        {
+          "name": "Runway Presence",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.1
+        },
+        {
+          "name": "Celebrity Endorsement",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Positive Reviews",
+          "score": 0.25,
+          "count": 5,
+          "weight": 0.05
+        },
+        {
+          "name": "Negative Reviews",
+          "score": -0.09,
+          "count": 3,
+          "weight": -0.03
+        },
+        {
+          "name": "Collectibility Notes",
+          "score": 0.3,
+          "count": 2,
+          "weight": 0.15
+        },
+        {
+          "name": "Investment Value",
+          "score": 0.0,
+          "count": 0,
+          "weight": 0.2
+        },
+        {
+          "name": "Rarity Mentions",
+          "score": 0.15,
+          "count": 1,
+          "weight": 0.15
+        }
+      ]
+    },
+    "raw_calculation": {
+      "raw_score": 0.61,
+      "calculation_inputs": {
+        "num_runway": 0,
+        "num_celebs": 0,
+        "num_pos_keywords": 5,
+        "num_neg_keywords": 3,
+        "num_collect_notes": 2,
+        "has_investment_mention": 0,
+        "has_rarity_mention": 1
+      }
+    }
+  }
+]

@@ -1,0 +1,88 @@
+{
+  "target_item": "Chanel Classic Flap handbag Black Lambskin",
+  "timeframe": "last 6 months",
+  "recent_runway_mentions": [
+    "At the Chanel SS25 runway show, influencer Marianne Theodorsen was seen carrying a shiny lambskin Chanel bag, highlighting the visibility of Chanel's iconic lambskin pieces at major brand events[5]."
+  ],
+  "recent_celebrity_sightings": [
+    "Marianne Theodorsen (Chanel SS25 runway show attendee and influencer)[5]"
+  ],
+  "recent_review_keywords_positive": [
+    "timeless classic",
+    "iconic",
+    "elegant",
+    "must-have",
+    "investment piece"
+  ],
+  "recent_review_keywords_negative": [
+    "steep price increase",
+    "expensive",
+    "high cost"
+  ],
+  "collectibility_notes": [
+    "Chanel Classic Flap bags are consistently referred to as timeless classics and must-have investment pieces, with substantial price increases over recent years reinforcing their status as collectible luxury goods[1][2]."
+  ],
+  "overall_trend_summary": "The Chanel Classic Flap Black Lambskin remains a highly visible and sought-after item in both influencer circles and luxury fashion contexts. Its reputation as a timeless, must-have investment piece is reinforced by significant price increases, although these rises are also a common concern among buyers. The bag continues to be featured at major Chanel events and is favored by high-profile personalities, confirming its enduring trendiness and collectibility.",
+  "key_sources": [
+    "https://www.laiamagazine.com/heres-everything-my-favorite-influencers-wore-to-the-chanel-ss25-runway-show/",
+    "https://www.purseblog.com/chanel/chanel-price-increase-2023/",
+    "https://www.pursebop.com/chanel-must-haves-price-comparison-then-vs-now/"
+  ],
+  "trend_score": 0.577,
+  "trend_category": "Medium",
+  "raw_score": 0.81,
+  "calculation_inputs": {
+    "num_runway": 1,
+    "num_celebs": 1,
+    "num_pos_keywords": 5,
+    "num_neg_keywords": 3,
+    "num_collect_notes": 1,
+    "has_investment_mention": 1,
+    "has_rarity_mention": 0
+  },
+  "trend_factors": [
+    {
+      "name": "Runway Presence",
+      "score": 0.1,
+      "count": 1,
+      "weight": 0.1
+    },
+    {
+      "name": "Celebrity Endorsement",
+      "score": 0.2,
+      "count": 1,
+      "weight": 0.2
+    },
+    {
+      "name": "Positive Reviews",
+      "score": 0.25,
+      "count": 5,
+      "weight": 0.05
+    },
+    {
+      "name": "Negative Reviews",
+      "score": -0.09,
+      "count": 3,
+      "weight": -0.03
+    },
+    {
+      "name": "Collectibility Notes",
+      "score": 0.15,
+      "count": 1,
+      "weight": 0.15
+    },
+    {
+      "name": "Investment Value",
+      "score": 0.2,
+      "count": 1,
+      "weight": 0.2
+    },
+    {
+      "name": "Rarity Mentions",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.15
+    }
+  ],
+  "cache_timestamp": 1745559484.811855
+}

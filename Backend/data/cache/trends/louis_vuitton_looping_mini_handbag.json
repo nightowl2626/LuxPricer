@@ -1,0 +1,75 @@
+{
+  "target_item": "Louis Vuitton Looping Mini handbag",
+  "timeframe": "last 6 months",
+  "recent_runway_mentions": [
+    "The Louis Vuitton Looping bag appeared during the Louis Vuitton Womenswear Fall/Winter 2023-2024 Paris Fashion Week show."
+  ],
+  "recent_celebrity_sightings": [
+    "Multiple celebrities (Louis Vuitton Womanwear Fall Winter 2023-2024 Paris Fashion Week show)"
+  ],
+  "recent_review_keywords_positive": [],
+  "recent_review_keywords_negative": [],
+  "collectibility_notes": [],
+  "overall_trend_summary": "The Louis Vuitton Looping Mini handbag received recent runway exposure at the Fall/Winter 2023-2024 Paris Fashion Week, where several celebrities were seen with the style. However, there is no recent online discussion or user feedback specifically highlighting the bag's review sentiment, collectibility, or negative/positive aspects in the past 6 months.",
+  "key_sources": [
+    "https://www.tiktok.com/discover/celebrities-louis-vuitton-looping",
+    "https://us.louisvuitton.com/eng-us/magazine/articles/women-fall-winter-2023-show-paris"
+  ],
+  "trend_score": 0.45,
+  "trend_category": "Medium",
+  "raw_score": 0.3,
+  "calculation_inputs": {
+    "num_runway": 1,
+    "num_celebs": 1,
+    "num_pos_keywords": 0,
+    "num_neg_keywords": 0,
+    "num_collect_notes": 0,
+    "has_investment_mention": 0,
+    "has_rarity_mention": 0
+  },
+  "trend_factors": [
+    {
+      "name": "Runway Presence",
+      "score": 0.1,
+      "count": 1,
+      "weight": 0.1
+    },
+    {
+      "name": "Celebrity Endorsement",
+      "score": 0.2,
+      "count": 1,
+      "weight": 0.2
+    },
+    {
+      "name": "Positive Reviews",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.05
+    },
+    {
+      "name": "Negative Reviews",
+      "score": -0.0,
+      "count": 0,
+      "weight": -0.03
+    },
+    {
+      "name": "Collectibility Notes",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.15
+    },
+    {
+      "name": "Investment Value",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.2
+    },
+    {
+      "name": "Rarity Mentions",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.15
+    }
+  ],
+  "cache_timestamp": 1745687259.856171
+}

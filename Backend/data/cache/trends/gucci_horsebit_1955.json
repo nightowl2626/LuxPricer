@@ -1,0 +1,81 @@
+{
+  "target_item": "Gucci Horsebit 1955",
+  "timeframe": "last 6 months",
+  "recent_runway_mentions": [],
+  "recent_celebrity_sightings": [
+    "Halle Bailey in the Gucci Horsebit 1955 bag campaign",
+    "Hanni from NewJeans in the Gucci Horsebit 1955 bag campaign",
+    "Julia Garner in the Gucci Horsebit 1955 bag campaign"
+  ],
+  "recent_review_keywords_positive": [
+    "versatile",
+    "iconic",
+    "craftsmanship",
+    "innovation"
+  ],
+  "recent_review_keywords_negative": [],
+  "collectibility_notes": [],
+  "overall_trend_summary": "The Gucci Horsebit 1955 handbag is currently trending with a strong focus on its classic design, versatility, and heritage. It has been featured in a prominent campaign with notable celebrities, highlighting its enduring appeal and style.",
+  "key_sources": [
+    "https://models.com/work/gucci-gucci-horsebit-1955-bag-2023-campaign",
+    "https://www.fashiongonerogue.com/gucci-horsebit-1955-bag-2023-campaign/",
+    "https://www.femalemag.com.sg/gallery/fashion/gucci-spring-summer-2023-collection-twinsburg-bag-clothes-accessories/"
+  ],
+  "trend_score": 0.574,
+  "trend_category": "Medium",
+  "raw_score": 0.8,
+  "calculation_inputs": {
+    "num_runway": 0,
+    "num_celebs": 3,
+    "num_pos_keywords": 4,
+    "num_neg_keywords": 0,
+    "num_collect_notes": 0,
+    "has_investment_mention": 0,
+    "has_rarity_mention": 0
+  },
+  "trend_factors": [
+    {
+      "name": "Runway Presence",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.1
+    },
+    {
+      "name": "Celebrity Endorsement",
+      "score": 0.6000000000000001,
+      "count": 3,
+      "weight": 0.2
+    },
+    {
+      "name": "Positive Reviews",
+      "score": 0.2,
+      "count": 4,
+      "weight": 0.05
+    },
+    {
+      "name": "Negative Reviews",
+      "score": -0.0,
+      "count": 0,
+      "weight": -0.03
+    },
+    {
+      "name": "Collectibility Notes",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.15
+    },
+    {
+      "name": "Investment Value",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.2
+    },
+    {
+      "name": "Rarity Mentions",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.15
+    }
+  ],
+  "cache_timestamp": 1745687773.799941
+}

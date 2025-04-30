@@ -1,0 +1,85 @@
+{
+  "target_item": "Gucci Azalea Calfskin Web Mini Horsebit 1955 Shoulder Bag",
+  "timeframe": "last 6 months",
+  "recent_runway_mentions": [],
+  "recent_celebrity_sightings": [],
+  "recent_review_keywords_positive": [
+    "timeless",
+    "heritage design",
+    "modern functionality",
+    "versatility",
+    "quality craftsmanship",
+    "sophistication",
+    "elegance",
+    "investment piece"
+  ],
+  "recent_review_keywords_negative": [],
+  "collectibility_notes": [
+    "This bag has proven itself as a timeless piece that can adapt to various fashion movements while remaining true to its origins.",
+    "It captures the essence of what luxury fashion should be\u2014an investment in quality craftsmanship that transcends fleeting trends.",
+    "Exceptional addition that promises both style and substance for collectors."
+  ],
+  "overall_trend_summary": "The Gucci Azalea Calfskin Web Mini Horsebit 1955 Shoulder Bag continues to be celebrated for its timeless, heritage-inspired design and versatility. While there are no recent runway or celebrity sightings, online discussions frame it as a collectible, investment-worthy piece with enduring appeal.",
+  "key_sources": [
+    "https://www.fabasianlifestyle.com/gucci-horsebit-1955-mini-shoulder-bag-a-timeless-accessory/",
+    "https://www.fashionphile.com/p/gucci-azalea-calfskin-web-mini-horsebit-1955-shoulder-bag-black-1138540",
+    "https://www.fashionphile.com/p/gucci-azalea-calfskin-web-monochrome-mini-horsebit-1955-chain-shoulder-bag-blue-1532234"
+  ],
+  "trend_score": 0.634,
+  "trend_category": "Medium",
+  "raw_score": 1.05,
+  "calculation_inputs": {
+    "num_runway": 0,
+    "num_celebs": 0,
+    "num_pos_keywords": 8,
+    "num_neg_keywords": 0,
+    "num_collect_notes": 3,
+    "has_investment_mention": 1,
+    "has_rarity_mention": 0
+  },
+  "trend_factors": [
+    {
+      "name": "Runway Presence",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.1
+    },
+    {
+      "name": "Celebrity Endorsement",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.2
+    },
+    {
+      "name": "Positive Reviews",
+      "score": 0.4,
+      "count": 8,
+      "weight": 0.05
+    },
+    {
+      "name": "Negative Reviews",
+      "score": -0.0,
+      "count": 0,
+      "weight": -0.03
+    },
+    {
+      "name": "Collectibility Notes",
+      "score": 0.44999999999999996,
+      "count": 3,
+      "weight": 0.15
+    },
+    {
+      "name": "Investment Value",
+      "score": 0.2,
+      "count": 1,
+      "weight": 0.2
+    },
+    {
+      "name": "Rarity Mentions",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.15
+    }
+  ],
+  "cache_timestamp": 1745688783.007018
+}

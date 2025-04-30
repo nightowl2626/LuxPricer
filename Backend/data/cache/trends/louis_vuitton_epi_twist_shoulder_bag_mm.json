@@ -1,0 +1,80 @@
+{
+  "target_item": "Louis Vuitton Epi Twist Shoulder Bag MM",
+  "timeframe": "last 6 months",
+  "recent_runway_mentions": [
+    "Featured in Louis Vuitton Women's Fall-Winter 2025 Collection presented by Nicolas Ghesqui\u00e8re in Paris on March 10, 2025"
+  ],
+  "recent_celebrity_sightings": [],
+  "recent_review_keywords_positive": [
+    "iconic",
+    "elegant",
+    "versatile",
+    "sculptural",
+    "ideal"
+  ],
+  "recent_review_keywords_negative": [],
+  "collectibility_notes": [],
+  "overall_trend_summary": "The Louis Vuitton Epi Twist Shoulder Bag MM appears to be part of the brand's current lineup, featured in their recent Fall-Winter 2025 Collection. While specific details about its trend status are limited, the bag is described using positive terms like 'iconic' and 'elegant' in product descriptions, suggesting it maintains relevance in Louis Vuitton's current offerings.",
+  "key_sources": [
+    "https://us.louisvuitton.com/eng-us/products/twist-mm-epi-nvprod1000317v/M21120",
+    "https://www.youtube.com/watch?v=y6NGVqahOOE",
+    "https://ap.louisvuitton.com/eng-sg/products/twist-mm-epi-nvprod5190080v/M24043"
+  ],
+  "trend_score": 0.463,
+  "trend_category": "Medium",
+  "raw_score": 0.35,
+  "calculation_inputs": {
+    "num_runway": 1,
+    "num_celebs": 0,
+    "num_pos_keywords": 5,
+    "num_neg_keywords": 0,
+    "num_collect_notes": 0,
+    "has_investment_mention": 0,
+    "has_rarity_mention": 0
+  },
+  "trend_factors": [
+    {
+      "name": "Runway Presence",
+      "score": 0.1,
+      "count": 1,
+      "weight": 0.1
+    },
+    {
+      "name": "Celebrity Endorsement",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.2
+    },
+    {
+      "name": "Positive Reviews",
+      "score": 0.25,
+      "count": 5,
+      "weight": 0.05
+    },
+    {
+      "name": "Negative Reviews",
+      "score": -0.0,
+      "count": 0,
+      "weight": -0.03
+    },
+    {
+      "name": "Collectibility Notes",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.15
+    },
+    {
+      "name": "Investment Value",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.2
+    },
+    {
+      "name": "Rarity Mentions",
+      "score": 0.0,
+      "count": 0,
+      "weight": 0.15
+    }
+  ],
+  "cache_timestamp": 1745892896.8803341
+}
