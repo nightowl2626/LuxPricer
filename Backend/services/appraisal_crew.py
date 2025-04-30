@@ -492,7 +492,7 @@ class LuxuryAppraisalCrew:
                 current_eval_task = next_eval_task
         
         # Create the feedback loop with max 5 iterations
-        create_research_feedback_loop(max_iterations=1)
+        create_research_feedback_loop(max_iterations=5)
         
         # Task 6: Generate valuation with price estimate and authenticity assessment
         valuation_task = Task(
