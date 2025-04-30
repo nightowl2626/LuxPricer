@@ -200,7 +200,7 @@ The backend uses the following environment variables from the .env file:
 
 The application uses Docker volumes to persist data:
 
-- `backend-data`: Stores uploaded files and generated reports
+- `backend-data`: Stores uploaded files
 
 ## Application Architecture
 
@@ -217,6 +217,3 @@ The application consists of:
 2. For production environments, consider adding HTTPS support
 3. Restrict access to the Docker daemon and containers
 
-## License
-
-[License information goes here] 
