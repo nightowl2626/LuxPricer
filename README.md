@@ -1,3 +1,5 @@
+> **Quick start:** Want to try LuxPricer yourself? Follow the step-by-step instructions in the [Deployment_Guide.md](./Deployment_Guide.md).
+
 # 💡Project Description & Problem Solved
 Navigating the world of luxury resale can feel like trying to hit a moving target in the dark! With literally **millions of different handbag models** out there, each with its own history, condition, and desirability, figuring out a fair price is a real headache. Add constantly **shifting fashion trends and a fragmented online market**, and it's no wonder even seasoned sellers often feel like they're flying blind, potentially undervaluing precious items or leaving money on the table. There's simply no easy "one size fits all" manual approach.
 
