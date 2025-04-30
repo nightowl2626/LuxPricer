@@ -193,11 +193,8 @@ The backend uses the following environment variables from the .env file:
 
 - `OPENAI_API_KEY`: OpenAI API key for model access
 - `LLM_OPENAI_API_KEY`: Alternative OpenAI API key
-- `ANTHROPIC_API_KEY`: Anthropic API key for Claude models
 - `PERPLEXITY_API_KEY`: Perplexity API key
 - `OPENAI_MODEL_NAME`: Name of the OpenAI model to use (e.g., gpt-4o)
-- `ENVIRONMENT`: Set the running environment (`development`/`production`)
-- `DEBUG`: Enable debug logs (`True`/`False`)
 
 ## Data Persistence
 
