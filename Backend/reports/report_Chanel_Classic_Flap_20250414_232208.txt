@@ -1,0 +1,74 @@
+# Appraisal Report - 20250414_232208
+
+Query: Value of my excellent condition medium black lambskin Chanel Classic Flap?
+
+## Full Report
+
+# Appraisal Report: Chanel Classic Flap
+
+**Date:** April 14, 2025
+
+---
+
+## Item Description
+
+The item under appraisal is a **Chanel Classic Flap** handbag. This iconic piece is in the **Medium** size, crafted from luxurious **Lambskin** leather, and is in the classic **Black** color. The item has been rated with a condition score of **4**, indicating it is in excellent condition with minimal signs of wear.
+
+## Condition Assessment
+
+The Chanel Classic Flap is rated at a condition score of **4**. This suggests the handbag is in excellent condition, with only minor signs of use, which positively influences its market value.
+
+## Market Analysis Summary
+
+The Chanel Classic Flap remains a highly sought-after item in the luxury market. Recent trends indicate a steady interest in this model, with notable mentions across social media and news platforms. The resale market shows robust activity, with prices reflecting the handbag's enduring popularity.
+
+## Price Estimation
+
+- **Basic Price Estimate:** $9,579.80
+- **Advanced Price Estimate:** $10,788.07
+
+The advanced price estimation is slightly higher, reflecting a more comprehensive analysis of market trends and item condition. Key factors influencing these estimates include the handbag's excellent condition, current market demand, and its iconic status in the fashion world.
+
+## Detailed Findings
+
+### Pricing Estimates
+
+- **Basic Price Estimation:** Utilized a weighted average base price of $8,925.00, adjusted for condition and market trends.
+- **Advanced Price Estimation:** Considered a broader range of comparables, with a base price weighted average of $8,893.13, adjusted for condition and enhanced trend analysis.
+
+### Search Trends
+
+The search interest for "Chanel Classic Flap" has shown fluctuations, with peaks indicating heightened consumer interest. Top related queries include price comparisons and styling tips, suggesting active consumer engagement.
+
+### Social Media Sentiment
+
+Social media mentions of the Chanel Classic Flap have been frequent, with sentiment largely positive. Platforms like Instagram and TikTok show high engagement, with users often discussing styling and authenticity.
+
+### News Coverage
+
+News articles have consistently covered the Chanel Classic Flap, with sentiment generally favorable. Key articles highlight its timeless appeal and recent celebrity endorsements, which have bolstered its market presence.
+
+### Resale Market Dynamics
+
+The resale market for the Chanel Classic Flap is vibrant, with an average price of $8,243.34. Listings show a range of conditions, with prices reflecting the item's condition and demand. The price range observed spans from $7,461.17 to $8,954.71.
+
+## Methodology
+
+This appraisal utilized a combination of basic and advanced pricing models, incorporating condition scores, market trends, and resale data. Search and social media trends, along with news sentiment, were analyzed to provide a comprehensive market overview.
+
+## Disclaimer
+
+This appraisal is an estimate based on available data and current market conditions. Prices can fluctuate due to changes in demand, market trends, and other external factors. This report should be used as a guide rather than a definitive valuation.
+
+## Details
+
+Processing time: 19.49 seconds
+Item: {
+  "designer": "Chanel",
+  "model": "Classic Flap",
+  "size": "Medium",
+  "material": "Lambskin",
+  "color": "Black",
+  "condition_rating": 4
+}
+
