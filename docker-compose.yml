@@ -1,0 +1,45 @@
+version: '3.8'
+
+services:
+  frontend-app:
+    build:
+      context: /Users/liuwang/Projects/lux_final_副本/frontend
+      dockerfile: Dockerfile
+    image: lux-frontend:latest
+    container_name: lux-frontend
+    ports:
+      - "80:80"
+    depends_on:
+      - backend-app
+    restart: unless-stopped
+    networks:
+      - lux-appraisal-network
+
+  backend-app:
+    build:
+      context: /Users/liuwang/Projects/lux_final_副本/backend
+      dockerfile: Dockerfile
+    image: lux-backend:latest
+    container_name: lux-backend
+    ports:
+      - "8000:8000"
+    environment:
+      - ENVIRONMENT=production
+      - DEBUG=False
+      # Add your API keys here or use an .env file
+      # - OPENAI_API_KEY=${OPENAI_API_KEY}
+      # - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY}
+    volumes:
+      - backend-data:/app/uploads
+      - backend-data:/app/reports
+    restart: unless-stopped
+    networks:
+      - lux-appraisal-network
+
+volumes:
+  backend-data:
+    driver: local
+
+networks:
+  lux-appraisal-network:
+    driver: bridge 
