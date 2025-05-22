@@ -80,3 +80,15 @@ export function create_links(input) {
         vestiairecollective: vestiaire_collective_link
     };
 }
+
+export function generate_urls(baseUrl, startPage, endPage) {
+    let urls = [];
+    for (let i = startPage; i <= endPage; i++) {
+        // Replace the page number in the URL with the current page number
+        let url = baseUrl.replace(/p-\d+|page=\d+/g, (match) => {
+            return match.startsWith('p-') ? `p-${i}` : `page=${i}`;
+        });
+        urls.push(url);
+    }
+    return urls;
+}
